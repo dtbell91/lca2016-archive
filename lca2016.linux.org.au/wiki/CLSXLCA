@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/CLSXLCA" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CLSXLCA","wgTitle":"CLSXLCA","wgCurRevisionId":1275,"wgRevisionId":1275,"wgArticleId":71,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CLSXLCA"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"CLSXLCA","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -69,8 +69,8 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <h1><span class="mw-headline" id="Community_Leadership_Summit_X_at_linux.conf.au">Community Leadership Summit X at linux.conf.au</span></h1>
 <p>This page
 </p>
-<h2><span class="mw-headline" id="https:.2F.2Flinux.conf.au.2Fwiki.2FCLSXLCA"><a rel="nofollow" class="external free" href="https://linux.conf.au/wiki/CLSXLCA">https://linux.conf.au/wiki/CLSXLCA</a></span></h2>
-<p>The clsXlca miniconf will be held on <b>Tuesday, Feburary 2nd 2016</b> in D2.21 <a rel="nofollow" class="external text" href="https://linux.conf.au/schedule/30152/view_talk?day=tuesday">as per the main conference schedule</a>
+<h2><span class="mw-headline" id="https:.2F.2Flinux.conf.au.2Fwiki.2FCLSXLCA"><a rel="nofollow" class="external free" href="/wiki/CLSXLCA">https://linux.conf.au/wiki/CLSXLCA</a></span></h2>
+<p>The clsXlca miniconf will be held on <b>Tuesday, Feburary 2nd 2016</b> in D2.21 <a rel="nofollow" class="external text" href="/schedule/30152/view_talk?day=tuesday">as per the main conference schedule</a>
 </p>
 <h2><span class="mw-headline" id="Unconference_Resources">Unconference Resources</span></h2>
 <ul><li> <a rel="nofollow" class="external free" href="http://www.unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/">http://www.unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/</a></li>
@@ -85,7 +85,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <h2><span class="mw-headline" id="Rough_outline_of_the_day">Rough outline of the day</span></h2>
 <p>Tuesday the 2nd of February
 </p>
-<ul><li> 9:00 <a rel="nofollow" class="external text" href="https://linux.conf.au/news/georgefong">LCA Keynote - Mr George Fong</a></li></ul>
+<ul><li> 9:00 <a rel="nofollow" class="external text" href="/news/georgefong">LCA Keynote - Mr George Fong</a></li></ul>
 <p>10:00 MORNING TEA
 </p>
 <ul><li>10:40 clsXlca opens</li>
@@ -146,7 +146,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:71-0!*!0!!en!*!* and timestamp 20171114062129 and revision id 1275
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=CLSXLCA&amp;oldid=1275">https://lca2016.linux.org.au/wiki/index.php?title=CLSXLCA&amp;oldid=1275</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=CLSXLCA&amp;oldid=1275">https://lca2016.linux.org.au/wiki/index.php?title=CLSXLCA&amp;oldid=1275</a>"					</div>
 													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:CLSXLCA" title="Category:CLSXLCA">CLSXLCA</a></li></ul></div></div>												<div class="visualClear"></div>
 							</div>
 		</div>

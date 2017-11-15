@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/Links" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Links","wgTitle":"Links","wgCurRevisionId":1297,"wgRevisionId":1297,"wgArticleId":150,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Links","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -84,7 +84,7 @@ Please add your lca2016 links here. I've put in headers. If your link is a combi
 <li> <a rel="nofollow" class="external text" href="https://lwn.net/Articles/674751/">Protecting systems with the TPM</a> (February 9, 2016)</li>
 <li> <a rel="nofollow" class="external text" href="http://lwn.net/Articles/674752/">Making use of persistent memory</a> (February 10, 2016)</li>
 <li> <a rel="nofollow" class="external text" href="https://lwn.net/Articles/674770/">CloudABI</a> (February 10, 2016)</li>
-<li> <a rel="nofollow" class="external text" href="http://lwn.net/Articles/674877/">A Linux-powered microwave oven</a> by Neil Brown. February 10, 2016. Article about David Tulloch's talk <i>Linux driven microwave</i>/ <a rel="nofollow" class="external text" href="http://lca2016.linux.org.au/schedule/30257/view_talk?day=thursday">Abstract</a> and <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=R3DADx5z-XY">youtube</a>. </li>
+<li> <a rel="nofollow" class="external text" href="http://lwn.net/Articles/674877/">A Linux-powered microwave oven</a> by Neil Brown. February 10, 2016. Article about David Tulloch's talk <i>Linux driven microwave</i>/ <a rel="nofollow" class="external text" href="/schedule/30257/view_talk?day=thursday">Abstract</a> and <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=R3DADx5z-XY">youtube</a>. </li>
 <li> <a rel="nofollow" class="external text" href="http://lwn.net/Articles/674949/">Writing your own security module</a> (February 10, 2016)</li></ul>
 <h2><span class="mw-headline" id="Github_or_software_repository">Github or software repository</span></h2>
 <h2><span class="mw-headline" id="Events_and_conferences_you_recommend">Events and conferences you recommend</span></h2>
@@ -123,7 +123,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:150-0!*!0!!en!*!* and timestamp 20171114062110 and revision id 1297
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Links&amp;oldid=1297">https://lca2016.linux.org.au/wiki/index.php?title=Links&amp;oldid=1297</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=Links&amp;oldid=1297">https://lca2016.linux.org.au/wiki/index.php?title=Links&amp;oldid=1297</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>

@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/What_to_expect_at_linux.conf.au" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"What_to_expect_at_linux.conf.au","wgTitle":"What to expect at linux.conf.au","wgCurRevisionId":137,"wgRevisionId":137,"wgArticleId":21,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"What_to_expect_at_linux.conf.au","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -54,7 +54,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <p>Linux Australia aims to provide fun, welcoming and professional environments so that diverse groups of people - regardless of age, race, gender identity or expression, background, disability, appearance, sexuality, walk of life, or religion - can get together to learn from and be inspired by each other about all things Free and Open Source.
 </p><p>Linux Australia is committed to the ideals expressed in our Values Statement and ask all our members, speakers, volunteers, attendees and guests to adopt these principles. We are a diverse community. Sometimes this means we need to work harder to ensure we're creating an environment of trust and respect where all who come to participate feel comfortable and included.
 </p><p>We value your participation and appreciate your help in realising this goal.
-</p><p>These ideals are embodied in the <a rel="nofollow" class="external text" href="http://linux.conf.au/register/code_of_conduct">Code of Conduct</a>. 
+</p><p>These ideals are embodied in the <a rel="nofollow" class="external text" href="/register/code_of_conduct">Code of Conduct</a>. 
 </p><p>If you feel threatened, uncomfortable, harrassed or believe a breach of the Code of Conduct has occurred, please make contact with an Organiser or the Conference <a href="/wiki/Diversity_Officer" title="Diversity Officer">Diversity Officer</a>.
 </p>
 <h2><span class="mw-headline" id="First_timers_at_linux.conf.au">First timers at linux.conf.au</span></h2>
@@ -89,7 +89,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </p><p>CONFERENCE LIFECYCLE: 
 </p><p><a href="/wiki/Registering_for_linux.conf.au" title="Registering for linux.conf.au">Registering for linux.conf.au</a> | <a href="/wiki/Transport" title="Transport">Getting to linux.conf.au</a> | <a href="/wiki/Accommodation" title="Accommodation">Where to stay at linux.conf.au</a> | <strong class="selflink">What to expect at linux.conf.au</strong> | <a href="/wiki/What_to_do_at_linux.conf.au" title="What to do at linux.conf.au">What to do at linux.conf.au</a> | <a href="/wiki/What_happens_after_linux.conf.au" title="What happens after linux.conf.au">What happens after linux.conf.au</a>
 </p><p>HANDY LINKS:
-</p><p><a rel="nofollow" class="external text" href="https://linux.conf.au">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/register">Register</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
+</p><p><a rel="nofollow" class="external text" href="/">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="/register">Register</a> | <a rel="nofollow" class="external text" href="/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
 </p>
 <!-- 
 NewPP limit report
@@ -106,7 +106,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:21-0!*!0!!en!*!* and timestamp 20171114062108 and revision id 137
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=What_to_expect_at_linux.conf.au&amp;oldid=137">https://lca2016.linux.org.au/wiki/index.php?title=What_to_expect_at_linux.conf.au&amp;oldid=137</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=What_to_expect_at_linux.conf.au&amp;oldid=137">https://lca2016.linux.org.au/wiki/index.php?title=What_to_expect_at_linux.conf.au&amp;oldid=137</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>

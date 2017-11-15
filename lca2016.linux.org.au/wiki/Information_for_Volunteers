@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/Information_for_Volunteers" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Information_for_Volunteers","wgTitle":"Information for Volunteers","wgCurRevisionId":498,"wgRevisionId":498,"wgArticleId":17,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Information_for_Volunteers","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -69,7 +69,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li> Great networking opportunities with people working in the free and open source community</li>
 <li> Gaining practical, hands-on experience and skills in event management, customer liaison, public relations and operation of audio visual equipment - which are invaluable to future employers</li></ul>
 <p><br />
-The <a rel="nofollow" class="external text" href="http://linux.conf.au/register/volunteer">Call for Volunteers</a> went out in early October. 
+The <a rel="nofollow" class="external text" href="/register/volunteer">Call for Volunteers</a> went out in early October. 
 </p>
 <h3><span class="mw-headline" id="For_assistance_if_you_are_a_Volunteer">For assistance if you are a Volunteer</span></h3>
 <p>Email <a rel="nofollow" class="external text" href="mailto:volunteers@lcabythebay.org.au">volunteers@lcabythebay.org.au</a>.
@@ -89,7 +89,7 @@ The <a rel="nofollow" class="external text" href="http://linux.conf.au/register/
 </p><p>CONFERENCE LIFECYCLE: 
 </p><p><a href="/wiki/Registering_for_linux.conf.au" title="Registering for linux.conf.au">Registering for linux.conf.au</a> | <a href="/wiki/Transport" title="Transport">Getting to linux.conf.au</a> | <a href="/wiki/Accommodation" title="Accommodation">Where to stay at linux.conf.au</a> | <a href="/wiki/What_to_expect_at_linux.conf.au" title="What to expect at linux.conf.au">What to expect at linux.conf.au</a> | <a href="/wiki/What_to_do_at_linux.conf.au" title="What to do at linux.conf.au">What to do at linux.conf.au</a> | <a href="/wiki/What_happens_after_linux.conf.au" title="What happens after linux.conf.au">What happens after linux.conf.au</a>
 </p><p>HANDY LINKS:
-</p><p><a rel="nofollow" class="external text" href="https://linux.conf.au">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/register">Register</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
+</p><p><a rel="nofollow" class="external text" href="/">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="/register">Register</a> | <a rel="nofollow" class="external text" href="/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
 </p>
 <h1><span class="mw-headline" id="Geelong_Emergency_contacts">Geelong Emergency contacts</span></h1>
 <h2><span class="mw-headline" id="All_emergency_Services:_000">All emergency Services: 000</span></h2>
@@ -127,7 +127,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:17-0!*!0!!en!*!* and timestamp 20171114062104 and revision id 498
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Information_for_Volunteers&amp;oldid=498">https://lca2016.linux.org.au/wiki/index.php?title=Information_for_Volunteers&amp;oldid=498</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=Information_for_Volunteers&amp;oldid=498">https://lca2016.linux.org.au/wiki/index.php?title=Information_for_Volunteers&amp;oldid=498</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>

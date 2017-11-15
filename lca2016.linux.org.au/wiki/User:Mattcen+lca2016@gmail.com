@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/User:Mattcen%2Blca2016@gmail.com" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":2,"wgPageName":"User:Mattcen+lca2016@gmail.com","wgTitle":"Mattcen+lca2016@gmail.com","wgCurRevisionId":726,"wgRevisionId":726,"wgArticleId":92,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"User:Mattcen+lca2016@gmail.com","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRelevantUserName":"Mattcen+lca2016@gmail.com"});
 }</script><script>if(window.mw){
@@ -58,7 +58,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:92-0!*!*!!*!*!* and timestamp 20171114062234 and revision id 726
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=User:Mattcen%2Blca2016@gmail.com&amp;oldid=726">https://lca2016.linux.org.au/wiki/index.php?title=User:Mattcen%2Blca2016@gmail.com&amp;oldid=726</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=User:Mattcen%2Blca2016@gmail.com&amp;oldid=726">https://lca2016.linux.org.au/wiki/index.php?title=User:Mattcen%2Blca2016@gmail.com&amp;oldid=726</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>

@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/Information_for_Delegates" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Information_for_Delegates","wgTitle":"Information for Delegates","wgCurRevisionId":497,"wgRevisionId":497,"wgArticleId":16,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Information_for_Delegates","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -67,7 +67,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 
 <h2><span class="mw-headline" id="Registration_information">Registration information</span></h2>
-<p>Refer to the <a rel="nofollow" class="external text" href="https://linux.conf.au/register/info">main conference registration page</a> for information on pricing, ticket types and entitlements. 
+<p>Refer to the <a rel="nofollow" class="external text" href="/register/info">main conference registration page</a> for information on pricing, ticket types and entitlements. 
 </p><p>Registration is a three-step process; 
 </p>
 <ol><li> Create a new account on linux.conf.au and validate your email</li>
@@ -105,7 +105,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li> <b>Cash or card</b> - you will likely have some incidental expenses during the conference. There's an ATM (Westpac) at the conference venue, and most nearby venues take card. </li>
 <li> <b>An appetite</b> - Geelong has a magnificent range of eateries and restaurants all within walking distance.</li></ul>
 <h2><span class="mw-headline" id="Social_Media">Social Media</span></h2>
-<ul><li> Website: <a rel="nofollow" class="external text" href="https://linux.conf.au">linux.conf.au</a></li>
+<ul><li> Website: <a rel="nofollow" class="external text" href="/">linux.conf.au</a></li>
 <li> Twitter: <a rel="nofollow" class="external text" href="http://www.twitter.com/linuxconfau">@linuxconfau</a>, hashtag <a rel="nofollow" class="external text" href="https://twitter.com/search?q=lca2016">#lca2016</a></li>
 <li> Facebook: <a rel="nofollow" class="external text" href="https://www.facebook.com/lcabythebay">Facebook</a> </li>
 <li> Google+: <a rel="nofollow" class="external text" href="https://www.google.com/+LcabythebayOrgAu">Google Plus</a></li>
@@ -122,7 +122,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </p><p>CONFERENCE LIFECYCLE: 
 </p><p><a href="/wiki/Registering_for_linux.conf.au" title="Registering for linux.conf.au">Registering for linux.conf.au</a> | <a href="/wiki/Transport" title="Transport">Getting to linux.conf.au</a> | <a href="/wiki/Accommodation" title="Accommodation">Where to stay at linux.conf.au</a> | <a href="/wiki/What_to_expect_at_linux.conf.au" title="What to expect at linux.conf.au">What to expect at linux.conf.au</a> | <a href="/wiki/What_to_do_at_linux.conf.au" title="What to do at linux.conf.au">What to do at linux.conf.au</a> | <a href="/wiki/What_happens_after_linux.conf.au" title="What happens after linux.conf.au">What happens after linux.conf.au</a>
 </p><p>HANDY LINKS:
-</p><p><a rel="nofollow" class="external text" href="https://linux.conf.au">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/register">Register</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
+</p><p><a rel="nofollow" class="external text" href="/">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="/register">Register</a> | <a rel="nofollow" class="external text" href="/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
 </p><p><br />
 </p>
 <h1><span class="mw-headline" id="Geelong_Emergency_contacts">Geelong Emergency contacts</span></h1>
@@ -161,7 +161,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:16-0!*!0!!en!*!* and timestamp 20171114062104 and revision id 497
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Information_for_Delegates&amp;oldid=497">https://lca2016.linux.org.au/wiki/index.php?title=Information_for_Delegates&amp;oldid=497</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=Information_for_Delegates&amp;oldid=497">https://lca2016.linux.org.au/wiki/index.php?title=Information_for_Delegates&amp;oldid=497</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>

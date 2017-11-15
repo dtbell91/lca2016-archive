@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/Hackerspace_BoF" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hackerspace_BoF","wgTitle":"Hackerspace BoF","wgCurRevisionId":1235,"wgRevisionId":1235,"wgArticleId":137,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hackerspace_BoF","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -40,7 +40,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
 				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>A Hackerspace BoF for Committee Members past, present or burnt out. This will be a great gathering of minds to work out how to solves issues around running hackerspaces, dealing with issues and working out a plan for the future. 
-</p><p><a rel="nofollow" class="external free" href="https://linux.conf.au/wiki/Birds_of_a_Feather_sessions_%28BoFs%29">https://linux.conf.au/wiki/Birds_of_a_Feather_sessions_%28BoFs%29</a>
+</p><p><a rel="nofollow" class="external free" href="/wiki/Birds_of_a_Feather_sessions_%28BoFs%29">https://linux.conf.au/wiki/Birds_of_a_Feather_sessions_%28BoFs%29</a>
 Venue: D2.193
 </p><p><br />
 </p>
@@ -102,7 +102,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:137-0!*!*!!en!*!* and timestamp 20171114062156 and revision id 1235
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Hackerspace_BoF&amp;oldid=1235">https://lca2016.linux.org.au/wiki/index.php?title=Hackerspace_BoF&amp;oldid=1235</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=Hackerspace_BoF&amp;oldid=1235">https://lca2016.linux.org.au/wiki/index.php?title=Hackerspace_BoF&amp;oldid=1235</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>

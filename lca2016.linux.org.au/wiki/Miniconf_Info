@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/Miniconf_Info" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Miniconf_Info","wgTitle":"Miniconf Info","wgCurRevisionId":1037,"wgRevisionId":1037,"wgArticleId":45,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Miniconf_Info","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -57,9 +57,9 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </div>
 
 <h2><span class="mw-headline" id="Miniconf_CFPs">Miniconf CFPs</span></h2>
-<p><a rel="nofollow" class="external text" href="https://linux.conf.au/programme/miniconfs">Miniconf page on linux.conf.au</a>
+<p><a rel="nofollow" class="external text" href="/programme/miniconfs">Miniconf page on linux.conf.au</a>
 </p><p>Mini conferences will run on the Monday and Tuesday of LCA 2016. The call for papers for these are handled individually by the organisers of each conference. 
-</p><p>Here's a list of the open CFPs, with close dates and links. If you are attending LCA and have a ticket, why not throw in a proposal? <a rel="nofollow" class="external text" href="https://linux.conf.au/register/info">You can also buy a single miniconf ticket</a>. 
+</p><p>Here's a list of the open CFPs, with close dates and links. If you are attending LCA and have a ticket, why not throw in a proposal? <a rel="nofollow" class="external text" href="/register/info">You can also buy a single miniconf ticket</a>. 
 </p><p><br />
 </p>
 <h3><span class="mw-headline" id="Open_Call_for_Proposals">Open Call for Proposals</span></h3>
@@ -296,7 +296,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </td>
 <td><b><a rel="nofollow" class="external text" href="http://openradio.net.au/index.php/Main_Page">OpenRadio Miniconf</a></b>
 </td>
-<td><b><a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/Open_Knowledge_Miniconf">Open Knowledge</a></b>
+<td><b><a rel="nofollow" class="external text" href="/wiki/Open_Knowledge_Miniconf">Open Knowledge</a></b>
 </td>
 <td><b><a href="/wiki/CLSXLCA" title="CLSXLCA"> Community Leadership Summit X at LCA</a></b>
 </td>
@@ -460,7 +460,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </p><p>CONFERENCE LIFECYCLE: 
 </p><p><a href="/wiki/Registering_for_linux.conf.au" title="Registering for linux.conf.au">Registering for linux.conf.au</a> | <a href="/wiki/Transport" title="Transport">Getting to linux.conf.au</a> | <a href="/wiki/Accommodation" title="Accommodation">Where to stay at linux.conf.au</a> | <a href="/wiki/What_to_expect_at_linux.conf.au" title="What to expect at linux.conf.au">What to expect at linux.conf.au</a> | <a href="/wiki/What_to_do_at_linux.conf.au" title="What to do at linux.conf.au">What to do at linux.conf.au</a> | <a href="/wiki/What_happens_after_linux.conf.au" title="What happens after linux.conf.au">What happens after linux.conf.au</a>
 </p><p>HANDY LINKS:
-</p><p><a rel="nofollow" class="external text" href="https://linux.conf.au">Conference Home</a> | <strong class="selflink">Miniconf_Info</strong>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/register">Register</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
+</p><p><a rel="nofollow" class="external text" href="/">Conference Home</a> | <strong class="selflink">Miniconf_Info</strong>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="/register">Register</a> | <a rel="nofollow" class="external text" href="/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
 </p>
 <!-- 
 NewPP limit report
@@ -477,7 +477,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:45-0!*!0!!en!*!* and timestamp 20171114062108 and revision id 1037
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Miniconf_Info&amp;oldid=1037">https://lca2016.linux.org.au/wiki/index.php?title=Miniconf_Info&amp;oldid=1037</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=Miniconf_Info&amp;oldid=1037">https://lca2016.linux.org.au/wiki/index.php?title=Miniconf_Info&amp;oldid=1037</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>

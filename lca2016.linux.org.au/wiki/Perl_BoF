@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/Perl_BoF" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Perl_BoF","wgTitle":"Perl BoF","wgCurRevisionId":990,"wgRevisionId":990,"wgArticleId":96,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BoF"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Perl_BoF","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -79,7 +79,7 @@ in the Perl world,
 <li> <a rel="nofollow" class="external text" href="http://pjf.id.au">Paul Fenwick</a></li>
 <li> <a href="/wiki/User:Jason@dickson.st" title="User:Jason@dickson.st">Jason Lewis</a></li>
 <li> <a rel="nofollow" class="external text" href="http://popcorn.cx/">Stephen Edmonds</a></li>
-<li> <a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/User:Benball@benball.net">Ben Ball</a></li>
+<li> <a rel="nofollow" class="external text" href="/wiki/User:Benball@benball.net">Ben Ball</a></li>
 <li> <a rel="nofollow" class="external text" href="http://robn.io/">Rob N</a></li>
 <li> Bron Gondwana</li></ul>
 <p><br />
@@ -128,7 +128,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:96-0!*!0!!en!5!* and timestamp 20171114062153 and revision id 990
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Perl_BoF&amp;oldid=990">https://lca2016.linux.org.au/wiki/index.php?title=Perl_BoF&amp;oldid=990</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=Perl_BoF&amp;oldid=990">https://lca2016.linux.org.au/wiki/index.php?title=Perl_BoF&amp;oldid=990</a>"					</div>
 													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:BoF" title="Category:BoF">BoF</a></li></ul></div></div>												<div class="visualClear"></div>
 							</div>
 		</div>

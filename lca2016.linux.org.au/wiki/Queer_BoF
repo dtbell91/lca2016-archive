@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/Queer_BoF" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Queer_BoF","wgTitle":"Queer BoF","wgCurRevisionId":1108,"wgRevisionId":1108,"wgArticleId":91,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BoF"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Queer_BoF","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -83,7 +83,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li> Josh Deprez</li>
 <li> <a rel="nofollow" class="external text" href="https://twitter.com/LGnome">Adam Harvey</a></li>
 <li> <a rel="nofollow" class="external text" href="https://twitter.com/ceralena">Cera Davies</a></li>
-<li> <a rel="nofollow" class="external text" href="https://linux.conf.au/schedule/30383/view_talk?day=monday">Andreas Frisch</a> (sorry i missed the monday bof meeting)</li>
+<li> <a rel="nofollow" class="external text" href="/schedule/30383/view_talk?day=monday">Andreas Frisch</a> (sorry i missed the monday bof meeting)</li>
 <li> <a rel="nofollow" class="external text" href="https://twitter.com/wallflyerwrites">Joe Robinson</a></li></ul>
 <h2><span class="mw-headline" id="Safe_Space">Safe Space</span></h2>
 <p>Although I (<a href="/wiki/User:Dhawke@oss.co.nz" title="User:Dhawke@oss.co.nz">Dan</a>) have never known of any issues in previous years, prevention is always better than cure.  We welcome people whether or not they identify with the "Queer" tagline, including our straight allies.  Please remember, you may encounter people in minority groups that you do not identify with, so be polite, and treat everybody with respect.  I will identify myself to the group at the beginning of each meet, and you are at any time welcome to speak to me if you are feeling uncomfortable, or if there is anything happening that you do not believe is keeping with the idea of a Safe Space.  Feel free to ask me (<a href="/wiki/User:Dhawke@oss.co.nz" title="User:Dhawke@oss.co.nz">Dan</a>) to step outside or send me an SMS if you do not wish to bring something up in front of the group.
@@ -141,7 +141,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:91-0!*!0!!en!*!* and timestamp 20171114062152 and revision id 1108
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Queer_BoF&amp;oldid=1108">https://lca2016.linux.org.au/wiki/index.php?title=Queer_BoF&amp;oldid=1108</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=Queer_BoF&amp;oldid=1108">https://lca2016.linux.org.au/wiki/index.php?title=Queer_BoF&amp;oldid=1108</a>"					</div>
 													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:BoF" title="Category:BoF">BoF</a></li></ul></div></div>												<div class="visualClear"></div>
 							</div>
 		</div>

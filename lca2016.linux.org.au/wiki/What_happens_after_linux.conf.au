@@ -6,14 +6,14 @@
 <meta name="generator" content="MediaWiki 1.24.3" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="EditURI" type="application/rsd+xml" href="/wiki/api.php?action=rsd" />
 <link rel="alternate" hreflang="x-default" href="/wiki/What_happens_after_linux.conf.au" />
 <link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
-<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script src="/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"What_happens_after_linux.conf.au","wgTitle":"What happens after linux.conf.au","wgCurRevisionId":125,"wgRevisionId":125,"wgArticleId":23,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"What_happens_after_linux.conf.au","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
 }</script><script>if(window.mw){
@@ -47,7 +47,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <p>You can also stay in touch via social media; 
 </p>
 <h2><span class="mw-headline" id="Social_Media">Social Media</span></h2>
-<ul><li> Website: <a rel="nofollow" class="external text" href="https://linux.conf.au">linux.conf.au</a></li>
+<ul><li> Website: <a rel="nofollow" class="external text" href="/">linux.conf.au</a></li>
 <li> Twitter: <a rel="nofollow" class="external text" href="http://www.twitter.com/linuxconfau">@linuxconfau</a>, hashtag <a rel="nofollow" class="external text" href="https://twitter.com/search?q=lca2016">#lca2016</a></li>
 <li> Facebook: <a rel="nofollow" class="external text" href="https://www.facebook.com/lcabythebay">Facebook</a> </li>
 <li> Google+: <a rel="nofollow" class="external text" href="https://www.google.com/+LcabythebayOrgAu">Google Plus</a></li>
@@ -64,7 +64,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </p><p>CONFERENCE LIFECYCLE: 
 </p><p><a href="/wiki/Registering_for_linux.conf.au" title="Registering for linux.conf.au">Registering for linux.conf.au</a> | <a href="/wiki/Transport" title="Transport">Getting to linux.conf.au</a> | <a href="/wiki/Accommodation" title="Accommodation">Where to stay at linux.conf.au</a> | <a href="/wiki/What_to_expect_at_linux.conf.au" title="What to expect at linux.conf.au">What to expect at linux.conf.au</a> | <a href="/wiki/What_to_do_at_linux.conf.au" title="What to do at linux.conf.au">What to do at linux.conf.au</a> | <strong class="selflink">What happens after linux.conf.au</strong>
 </p><p>HANDY LINKS:
-</p><p><a rel="nofollow" class="external text" href="https://linux.conf.au">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/register">Register</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
+</p><p><a rel="nofollow" class="external text" href="/">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="/register">Register</a> | <a rel="nofollow" class="external text" href="/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
 </p>
 <!-- 
 NewPP limit report
@@ -81,7 +81,7 @@ Expensive parser function count: 0/100
 <!-- Saved in parser cache with key lca16wiki:pcache:idhash:23-0!*!0!*!*!*!* and timestamp 20171114062109 and revision id 125
  -->
 </div>									<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=What_happens_after_linux.conf.au&amp;oldid=125">https://lca2016.linux.org.au/wiki/index.php?title=What_happens_after_linux.conf.au&amp;oldid=125</a>"					</div>
+						Retrieved from "<a dir="ltr" href="/wiki/index.php?title=What_happens_after_linux.conf.au&amp;oldid=125">https://lca2016.linux.org.au/wiki/index.php?title=What_happens_after_linux.conf.au&amp;oldid=125</a>"					</div>
 													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
 							</div>
 		</div>
