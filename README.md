@@ -9,6 +9,10 @@ find * -type f -exec sed -iE 's/"http:\/\/lca2016\.linux\.org\.au/"/g' {} \;
 find * -type f -exec sed -iE 's/"https:\/\/linux\.conf\.au/"/g' {} \;
 find * -type f -exec sed -iE 's/"http:\/\/linux\.conf\.au/"/g' {} \;
 find * -type f -exec sed -iE 's/href=""/href="\/"/g' {} \;
+find * -type f -exec sed -iE 's/https:\/\/linux\.conf\.au/https:\/\/lca2016\.linux\.org\.au/g' {} \;
+find * -type f -exec sed -iE 's/http:\/\/linux\.conf\.au/https:\/\/lca2016\.linux\.org\.au/g' {} \;
 ```
 
 Review the changes made (using `git diff`, for example) as some changes may not have been intended!
+
+(if you find you suddenly have a bunch of files with names ending in various numbers of 'E' use this command to clear them out `find . -name '*E' -exec rm {} +`)
