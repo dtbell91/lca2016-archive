@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Tutorials/Tutorial: Packets don't lie: how can you use tcpdump/tshark (wireshark) to prove your point. - LCA2016 Delegate wiki</title>
+<meta name="generator" content="MediaWiki 1.24.3" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point." />
+<link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
+<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tutorials/Tutorial:_Packets_don't_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.","wgTitle":"Tutorials/Tutorial: Packets don't lie: how can you use tcpdump/tshark (wireshark) to prove your point.","wgCurRevisionId":1128,"wgRevisionId":1128,"wgArticleId":132,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tutorials/Tutorial:_Packets_don't_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: lca16wiki:resourceloader:filter:minify-js:7:2ffb09fddb30ef53a64cefb237597916 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/wiki/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Tutorials_Tutorial_Packets_don_t_lie_how_can_you_use_tcpdump_tshark_wireshark_to_prove_your_point skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Tutorials/Tutorial: Packets don't lie: how can you use tcpdump/tshark (wireshark) to prove your point.</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From LCA2016 Delegate wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#PREREQUISITES"><span class="tocnumber">1</span> <span class="toctext">PREREQUISITES</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Capturing"><span class="tocnumber">2</span> <span class="toctext">Capturing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#browsing_exercise"><span class="tocnumber">2.1</span> <span class="toctext">browsing exercise</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#have_a_look_at_the_capture_files_that_you_generated"><span class="tocnumber">2.2</span> <span class="toctext">have a look at the capture files that you generated</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#capture_interfaces"><span class="tocnumber">2.3</span> <span class="toctext">capture interfaces</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#capturing_on_the_CLI"><span class="tocnumber">2.4</span> <span class="toctext">capturing on the CLI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#expert_info"><span class="tocnumber">3</span> <span class="toctext">expert info</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#GUI"><span class="tocnumber">3.1</span> <span class="toctext">GUI</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#CLI"><span class="tocnumber">3.2</span> <span class="toctext">CLI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#DECRYPTING_SSL"><span class="tocnumber">4</span> <span class="toctext">DECRYPTING SSL</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#exercise_on_decyphering_SSL"><span class="tocnumber">4.1</span> <span class="toctext">exercise on decyphering SSL</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#display_filter"><span class="tocnumber">4.2</span> <span class="toctext">display filter</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#columns"><span class="tocnumber">4.3</span> <span class="toctext">columns</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#extra"><span class="tocnumber">5</span> <span class="toctext">extra</span></a></li>
+</ul>
+</div>
+
+<h3><span class="mw-headline" id="PREREQUISITES">PREREQUISITES</span></h3>
+<p>Please note that this is a tutorial, not a talk. 
+You should have tcpdump and  wireshark INSTALLED and do some captures BEFORE you come to the tutorial.
+To find wireshark packages do something like this:
+</p>
+<pre>
+#archlinux
+pacman -Ss wireshark tcpdump
+#debian
+apt-cache search wireshark tcpdump
+#fedora
+yum search wireshark tcpdump
+</pre>
+<p>Please install both GUI and CLI packages.
+</p><p>Please add the user you are going to run wireshark/tshark as to the 'wireshark' user group. 
+</p>
+<pre>
+gpasswd -a james wireshark
+</pre>
+<p>After this user 'james' will need to log out and log in again!
+</p><p><br />
+If that still DOESN'T work,  you might want to add a capability. Do it ONLY if you are still unable to do capture.
+</p>
+<pre>
+setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap
+</pre>
+<p>When finished, have a look around at what files came with the package:
+</p>
+<pre>
+tcpdump --version
+tshark --version
+</pre>
+<p>List binaries that came with the packge (example is for archlinux, for rmp-like do 'rpm -ql wireshark', for debian 'dpkg -L wireshark')
+</p>
+<pre>
+pacman -Ql wireshark-cli|grep bin
+wireshark-cli /usr/bin/androiddump
+wireshark-cli /usr/bin/capinfos
+wireshark-cli /usr/bin/captype        #same as 'capinfos -t'
+wireshark-cli /usr/bin/dftest         #display filter byte-code for debugging
+wireshark-cli /usr/bin/dumpcap        #can write files
+wireshark-cli /usr/bin/editcap        #snaplenth, or split into multiple based on time, number of packets, adjust time
+wireshark-cli /usr/bin/idl2wrs
+wireshark-cli /usr/bin/mergecap
+wireshark-cli /usr/bin/randpkt        #creates a legitimate EthernetII packet with the given Type field set
+wireshark-cli /usr/bin/rawshark       #cannot write files, only to standard output
+wireshark-cli /usr/bin/reordercap     #part of the functionality of the editcap
+wireshark-cli /usr/bin/text2pcap      #hexdump -&gt; pcap
+wireshark-cli /usr/bin/tshark
+wireshark-cli /usr/include/wireshark/epan/dissectors/packet-ypbind.h
+wireshark-cli /usr/share/wireshark/radius/dictionary.bintec
+
+</pre>
+<h1><span class="mw-headline" id="Capturing">Capturing</span></h1>
+<h4><span class="mw-headline" id="browsing_exercise">browsing exercise</span></h4>
+<ol><li> start capturing</li>
+<li> navigate your browser to linux.conf.au</li>
+<li> navigate your browser to google.com</li>
+<li> navigate your browser to xxxxxxx (your choice)</li></ol>
+<h4><span class="mw-headline" id="have_a_look_at_the_capture_files_that_you_generated">have a look at the capture files that you generated</span></h4>
+<pre>
+capinfos -T *.pcap{,ng}
+</pre>
+<h2><span class="mw-headline" id="capture_interfaces">capture interfaces</span></h2>
+<pre>
+tcpdump -D
+tshark -D
+# try with no interface
+tshark
+</pre>
+<h2><span class="mw-headline" id="capturing_on_the_CLI">capturing on the CLI</span></h2>
+<p>tcpdump can autostop after certain number of packets has been captured. tshark has addinionally duration, filesize and number of files autostop conditions.
+What if we want to have a permanent capture running and keep last N days of the logs?
+</p>
+<pre>
+tshark -b duration:2 -n -wevery2sec.pcapng &amp; watch -n 1 ls -l
+tshark -b duration:2 -n -wevery2sec.pcapng -a files:5  &amp; watch -n1 ls -l
+tshark -b duration:3600 -n -weveryHour.pcapng -b files:24
+tshark -a filesize:1024 -n -w1MiB.pcapng
+</pre>
+<h1><span class="mw-headline" id="expert_info">expert info</span></h1>
+<h2><span class="mw-headline" id="GUI">GUI</span></h2>
+<p>-r &lt;pcap file&gt;
+-J  &lt;jump filter&gt;
+</p>
+<pre>          After reading in a capture file using the -r flag, jump to the packet matching the filter (display
+          filter syntax).  If no exact match is found the first packet after that is selected.
+</pre>
+<pre>       capinfo
+       lower bottom corner
+               expert info
+               file name
+               packets, etc
+       statistics -&gt; protocol hierarchy
+       statistics -&gt; HTTP -&gt; packet counter
+       statistics -&gt; HTTP -&gt; requests
+       extract objects
+       follow TCP stream
+       coloring rules
+       Statistics -&gt; IPv4 Statistics -&gt;  Destinations and  Ports
+</pre>
+<p>fields
+</p>
+<pre>   delta time
+   
+</pre>
+<h2><span class="mw-headline" id="CLI">CLI</span></h2>
+<pre>
+! tshark -q -z ptype,tree
+! tshark -q -z io,stat,20,eth -q
+! tshark -q -z io,stat,20,http -q
+! tshark -q -z io,stat,20,,&quot;BYTES()http&quot; -q
+! tshark -q -z http,tree
+! tshark -q -z http_req,tree
+! tshark -q -z http_srv,tree
+create a capture file for icmp
+! tshark -q -z icmp,srt
+! tshark -q -z io,phs
+! tshark -q -z io,stat
+! tshark -q -z ip_hosts,tree
+! tshark -q -z plen,tree
+! tshark -q -z endpoints,eth
+! tshark -q -z endpoints,eth,
+! tshark -q -z endpoints,ip
+! tshark -q -z conv,eth
+! tshark -q -z conv,udp
+! tshark -q -z conv,tcp
+! tshark -q -z conv
+! tshark -q -z expert,error -q
+! tshark -q -z expert,note -q
+</pre>
+<h1><span class="mw-headline" id="DECRYPTING_SSL">DECRYPTING SSL</span></h1>
+<pre>When a client (for example, a web browser) makes a connection to a web server requiring SSL/TLS encryption - the encrypted channel is setup using a <b>symmetric</b> session key. This key is a random string generated by the client and then encrypted and transmitted using the servers <b>public</b> key, known as the <i>Pre-master Secret</i>. Once shared, the client and server use this shared key to encrypt and decrypt traffic.
+</pre>
+<p>MacOS users can do: launchctl setenv SSLKEYLOGFILE /tmp/SSLKEYLOGFILE.txt; open -a Applications/Firefox.app
+</p>
+<h4><span class="mw-headline" id="exercise_on_decyphering_SSL">exercise on decyphering SSL</span></h4>
+<ol><li> <pre></li></ol>
+<p>SSLKEYLOGFILE=/tmp/SSLKEYLOGFILE.txt firefox &amp;  tail -f /tmp/SSLKEYLOGFILE.txt
+</p>
+ </pre>
+<ol><li>Navigate to <a rel="nofollow" class="external free" href="https://google.com">https://google.com</a></li>
+<li>Do some searches</li>
+<li>Start capture</li>
+<li>Open a new tab and do more searches on google.com</li>
+<li>try <a rel="nofollow" class="external free" href="https://facebook.com">https://facebook.com</a> or some other web site.</li></ol>
+<p><br />
+SSLKEYLOGFILE variable  works for firefox, chromium and any program built with NSS library (Network Security Services).
+</p>
+<h2><span class="mw-headline" id="display_filter">display filter</span></h2>
+<pre>
+sack 
+http
+        ip.src==1.1.1.1 &amp;&amp;      tcp.analysis.retransmission or tcp.analysis.fast_retransmission
+        http.time &gt;= 0.4
+        tcp.analysis.rto &gt;= 0.050
+        http.request.uri == &quot;https://www.wireshark.org/&quot;
+        http.response.code == 500
+        tcp.port in {80 443 8080}
+        #the above is same as:
+        tcp.port == 80 || tcp.port == 443 || tcp.port == 8080
+        _ws.expert.severity &gt;= warn
+                0x1      ok
+                0x100000 comment
+                0x200000 chat
+                0x400000 note
+                0x600000 warn
+                0x800000 error
+
+tshark -r /var/tmp/aros.pcapng -e frame.number -e ip.src -e ip.dst -Tfields
+tshark -r /srv/http/TCP_SACK.cap   -Y frame.number==29 -V
+tshark -r TCP_SACK.cap -Y 'frame.number&gt;=10' -Y 'frame.number&lt;=15'
+</pre>
+<h2><span class="mw-headline" id="columns">columns</span></h2>
+<pre>
+ tshark -r http.pcapng -z follow,tcp,hex,1
+ tshark -e ip.addr -e tcp.window_size -Tfields
+ tshark -r http.pcapng -z follow,tcp,hex,127.0.0.1:59544,127.0.0.1:80
+ tshark -r /srv/http/TCP_SACK.cap   -Tfields -e frame.number -e frame.time_epoch -e ip.src -e ip.dst -e tcp.seq -e tcp.len -e tcp.nxtseq -e tcp.ack  -e tcp.analysis.ack_rtt
+ tshark -r /srv/http/TCP_SACK.cap   -Tfields -e frame.number -e frame.time_epoch -e ip.src -e ip.dst -e tcp.seq -e tcp.len -e tcp.nxtseq -e tcp.ack  -e  tcp.options.sack_le -e tcp.options.sack_re
+</pre>
+<h1><span class="mw-headline" id="extra">extra</span></h1>
+<pre>
+-d tcp.port==8888,http
+</pre>
+<p>disable protocols
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.032 seconds
+Real time usage: 0.034 seconds
+Preprocessor visited node count: 165/1000000
+Preprocessor generated node count: 320/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key lca16wiki:pcache:idhash:132-0!*!*!!en!*!* and timestamp 20171114225726 and revision id 1128
+ -->
+</div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;oldid=1128">https://lca2016.linux.org.au/wiki/index.php?title=Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;oldid=1128</a>"					</div>
+													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=Tutorials%2FTutorial%3A+Packets+don%27t+lie%3A+how+can+you+use+tcpdump%2Ftshark+%28wireshark%29+to+prove+your+point." title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point."  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point." >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/wiki/index.php?title=Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/wiki/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search LCA2016 Delegate wiki [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(images/a/a9/Geelong-Wave-Gradient.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+													<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point." title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point." title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-print"><a href="/wiki/index.php?title=Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+													<li id="t-permalink"><a href="/wiki/index.php?title=Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;oldid=1128" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/wiki/index.php?title=Tutorials/Tutorial:_Packets_don%27t_lie:_how_can_you_use_tcpdump/tshark_(wireshark)_to_prove_your_point.&amp;action=info">Page information</a></li>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2016, at 15:34.</li>
+											<li id="footer-info-viewcount">This page has been accessed 2,459 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/LCA2016_Delegate_Wiki:Privacy_policy" title="LCA2016 Delegate Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/LCA2016_Delegate_Wiki:About" title="LCA2016 Delegate Wiki:About">About LCA2016 Delegate wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/LCA2016_Delegate_Wiki:General_disclaimer" title="LCA2016 Delegate Wiki:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="/wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"ready","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63600300-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":304});
+}</script>
+	</body>
+</html>
+	

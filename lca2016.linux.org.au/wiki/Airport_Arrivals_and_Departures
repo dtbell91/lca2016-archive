@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Airport Arrivals and Departures - LCA2016 Delegate wiki</title>
+<meta name="generator" content="MediaWiki 1.24.3" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="LCA2016 Delegate wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://lca2016.linux.org.au/wiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Airport_Arrivals_and_Departures" />
+<link rel="alternate" type="application/atom+xml" title="LCA2016 Delegate wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: lca16wiki:resourceloader:filter:minify-css:7:64d17ac8ac4305acfb3536cd486dcd8a */</style>
+<script src="https://lca2016.linux.org.au/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Airport_Arrivals_and_Departures","wgTitle":"Airport Arrivals and Departures","wgCurRevisionId":1242,"wgRevisionId":1242,"wgArticleId":14,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Airport_Arrivals_and_Departures","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: lca16wiki:resourceloader:filter:minify-js:7:2ffb09fddb30ef53a64cefb237597916 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/wiki/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Airport_Arrivals_and_Departures skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Airport Arrivals and Departures</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From LCA2016 Delegate wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Shuttle_services"><span class="tocnumber">1</span> <span class="toctext">Shuttle services</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Arrivals"><span class="tocnumber">2</span> <span class="toctext">Arrivals</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Saturday_30th_January_2016"><span class="tocnumber">2.1</span> <span class="toctext">Saturday 30th January 2016</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Sunday_31st_January_2016"><span class="tocnumber">2.2</span> <span class="toctext">Sunday 31st January 2016</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Monday_1st_February_2016"><span class="tocnumber">2.3</span> <span class="toctext">Monday 1st February 2016</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Departures"><span class="tocnumber">3</span> <span class="toctext">Departures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Friday_5th_February_2016"><span class="tocnumber">3.1</span> <span class="toctext">Friday 5th February 2016</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Saturday_6th_February_2016"><span class="tocnumber">3.2</span> <span class="toctext">Saturday 6th February 2016</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Sunday_7th_February_2016"><span class="tocnumber">3.3</span> <span class="toctext">Sunday 7th February 2016</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Shuttle_services">Shuttle services</span></h2>
+<p><a rel="nofollow" class="external text" href="http://gull.com.au/">Gull bus services</a> operate a <a rel="nofollow" class="external text" href="https://bookings.gull.com.au/GUNewHome/EZBookingCheckStops.asp?TravelType=OneWay&amp;sStopFrom=GEELONG&amp;sDate=05/02/2016&amp;sStopTo=MELBOURNE+AIRPORT&amp;rDate=05/02/2016&amp;AdultCount=2&amp;ChildCount=0&amp;SeniorCount=0&amp;Family4Count=0&amp;Family5Count=0&amp;ExcessItemCount12=0&amp;ExcessItemCount8=0&amp;btnSubmit=Book+Your+Trip">regular service</a> from Geelong to the Melbourne airport.
+</p><p>(please extend)
+</p>
+<h2><span class="mw-headline" id="Arrivals">Arrivals</span></h2>
+<h3><span class="mw-headline" id="Saturday_30th_January_2016">Saturday 30th January 2016</span></h3>
+<ul><li> NZ891, arr. MEL 08:05
+<ul><li> Andrew Sands</li></ul></li>
+<li> QF415, arr. MEL 09:35
+<ul><li> Jussi Pakkanen</li></ul></li>
+<li> NZ123, arr. MEL 10:35
+<ul><li> Simon Lyall (plus one)</li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/LGnome">Adam Harvey</a></li></ul></li>
+<li> VA314, arr. MEL 11:15
+<ul><li> Jamie Bainbridge</li>
+<li> Kimberley Manning</li></ul></li>
+<li> QF611, arr. MEL 11:20
+<ul><li> Joel Addison</li>
+<li> Ben Stevens</li></ul></li>
+<li> QF762, arr. MEL 14:35
+<ul><li> Trent 'lathiat' Lloyd</li></ul></li>
+<li> QF2139, arr. MEL 14:50
+<ul><li> Paul E. McKenney</li></ul></li>
+<li> VA218, arr. MEL 15:30 (delayed from 13:25)
+<ul><li> Clancy Cunningham</li></ul></li>
+<li> QF797, arr. MEL 15:45
+<ul><li> Ian Cunningham</li></ul></li>
+<li> VA682, arr. MEL 18:13 (delayed from 15:45)
+<ul><li> James 'Ender' Brown</li></ul></li>
+<li> QF772, arr. MEL 16:40
+<ul><li> Cameron Tudball</li></ul></li>
+<li> QF154, arr. MEL 17:15
+<ul><li> Steven Ellis</li>
+<li> Cherie Ellis</li></ul></li>
+<li> NZ125, arr MEL 17:30
+<ul><li> <a href="/wiki/User:Dhawke@oss.co.nz" title="User:Dhawke@oss.co.nz">Dan Hawke</a></li></ul></li>
+<li> VA7425, arr. MEL at 17:30
+<ul><li> <a href="/wiki/Liz_Quilty" title="Liz Quilty">Liz Quilty</a></li></ul></li>
+<li> VA334, arr. MEL 18:15
+<ul><li> <a rel="nofollow" class="external text" href="http://www.humbug.org.au/RussellStuart">Russell Stuart</a></li></ul></li></ul>
+<h3><span class="mw-headline" id="Sunday_31st_January_2016">Sunday 31st January 2016</span></h3>
+<ul><li> KL3946, arr. MEL 07:00
+<ul><li> Karl-Johan Karlsson</li>
+<li> Camilla Eidem Blomberg </li></ul></li>
+<li> NZ0891, arr. MEL 08:05
+<ul><li> <a href="/wiki/User:Chris@cje.net.nz" title="User:Chris@cje.net.nz">Christopher Edsall</a></li></ul></li>
+<li> NZ855, arr. MEL 08:20
+<ul><li> Eugene Venter</li></ul></li>
+<li> MH149, arr. MEL 08:45
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/masayukig">Masayuki Igawa</a></li></ul></li>
+<li> JQ162, arr. MEL 08:50
+<ul><li> Dave Aldridge</li>
+<li> James Parker</li>
+<li> Garming Sam</li>
+<li> Grant McLean</li></ul></li>
+<li> QF94, arr. MEL 09:05
+<ul><li> Matthew Hiltner</li></ul></li>
+<li> UA98, arr. MEL 09:25 (40 mins ahead of schedule, due in 0845hrs)
+<ul><li> Casey Schaufler</li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/vavroom">Nicolas Steenhout</a></li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/marc_etienne_">Marc-Etienne M.Léveillé</a></li>
+<li> Jonathan Corbet</li>
+<li>  Ryan Sickle</li></ul></li>
+<li> <span style="color: #e67300;">JQ603, arr. <b>AVV</b> 09:30</span>
+<ul><li> Matthew Wilcox</li></ul></li>
+<li> <span style="color: #0000ff;">JQ603, arr. <b>AVV</b> 09:30</span>
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/jeremyvisser">Jeremy Visser</a></li>
+<li> Peter Chubb</li></ul></li>
+<li> VA820, arr. MEL 10:05
+<ul><li> Benno Leslie</li></ul></li>
+<li> JQ702, arr. MEL 10:15
+<ul><li> <a rel="nofollow" class="external text" href="https://keybase.io/mjec">Michael Cordover</a></li></ul></li>
+<li> NZ123, arr. MEL 10:35
+<ul><li> Simon Green</li>
+<li> David Zanetti</li>
+<li> Glen Ogilvie</li></ul></li>
+<li> JQ561, arr. MEL 10:35
+<ul><li> Charelle Collett</li></ul></li>
+<li> QF1502, arr. MEL 10:55
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/johndalton">John Dalton</a></li></ul></li>
+<li> NZ895, arr. MEL 11:00
+<ul><li> Chris Cormack</li>
+<li> Russell Smithies</li>
+<li> Jim Cheetham</li></ul></li>
+<li> VA262 from CBR, arr. MEL 11:10
+<ul><li> <a rel="nofollow" class="external text" href="http://mabula.net/">Paul Wayper</a></li>
+<li> <a rel="nofollow" class="external text" href="http://hugh.blemings.id.au/">Hugh Blemings</a></li></ul></li>
+<li> QF611, arr. MEL 11:20
+<ul><li> Jared Ring</li></ul></li>
+<li> VA214, arr. MEL 11:25
+<ul><li> Josh Driver</li>
+<li> Stephen M</li></ul></li>
+<li> QF763, arr. MEL 11:30
+<ul><li> Aeriana</li>
+<li> <a href="/wiki/User:Jessica@itgrrl.com" title="User:Jessica@itgrrl.com">Jessica Smith</a></li></ul></li>
+<li> QF423, arr. MEL 11:35
+<ul><li> Ewen McNeill</li></ul></li>
+<li> VA830 (DL7269), arr. MEL 11:35
+<ul><li> Keith Packard</li>
+<li> Casey West</li></ul></li>
+<li> VA1321, arr. MEL 11:45
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/JackScottAU">Jack Scott</a></li></ul></li>
+<li> QF680  arr. MEL 12:20
+<ul><li> <a href="/wiki/User:Dns@dns.id.au" title="User:Dns@dns.id.au">Daniel Sobey</a></li></ul></li>
+<li> QF427, arr. MEL 12:35
+<ul><li> Dong Ma</li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/mooeypoo">Moriel Schottlender</a></li></ul></li>
+<li> VA218, arr. MEL 13:25
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/AzMoo">Matt Magin</a></li></ul></li>
+<li> QF682, arr. MEL 13:35
+<ul><li> Cary D</li>
+<li> Phil Ingram</li></ul></li>
+<li> JQ511, arr. MEL 13:35
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/legoktm">Kunal Mehta</a></li></ul></li>
+<li> QF431, arr. MEL 13:35
+<ul><li> Kennedy Skelton</li></ul></li>
+<li> VA1323, arr. MEL 14:00
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/tserong">Tim Serong</a></li>
+<li> <a rel="nofollow" class="external text" href="https://www.scriptforge.org/faulteh">Scott Bragg</a></li></ul></li>
+<li> QF2139, arr. MEL 14:05
+<ul><li> Joshua Rich</li></ul></li>
+<li> VA324, arr. MEL 14:15 (Tullamarine)
+<ul><li> <a rel="nofollow" class="external text" href="https://openstem.com.au/">Arjen Lentz</a></li>
+<li> Joe Robinson</li>
+<li> Brian Moss</li>
+<li> Alexandra Settle</li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/lhovo">Luke Hovington</a></li></ul></li>
+<li> QF0617, arr. MEL 14:20 (Tullamarine)
+<ul><li> Darryl Bond</li>
+<li> Gagandeep Arora</li></ul></li>
+<li> QF0762, arr. MEL 14:30
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/kyerussell">Kye Russell</a></li></ul></li>
+<li> QF435, arr. MEL 14:35
+<ul><li> Brendan O'Dea</li></ul></li>
+<li> VA842, arr. MEL 14:35
+<ul><li> James Polley</li></ul></li>
+<li> QF881, arr. MEL 15:00
+<ul><li> Ben Martin</li></ul></li>
+<li> JQ977, arr. MEL 15:00
+<ul><li> Andrew Cooks</li></ul></li>
+<li> VA326, arr. MEL 15:15
+<ul><li> Brad Marshall</li>
+<li> Marco Ostini +1</li></ul></li>
+<li> QF619, arr. MEL 15:20
+<ul><li> Ian Burns</li>
+<li> Dion Hulse</li></ul></li>
+<li> QF686, arr. MEL 15:25
+<ul><li> Tim S</li></ul></li>
+<li> VA272, arr. MEL 15:40
+<ul><li> Michael Carden</li>
+<li> Neill Cox</li>
+<li> <a rel="nofollow" class="external text" href="http://m0les.com">Miles Goodhew</a></li>
+<li> Nick Rollings</li></ul></li>
+<li> QF815, arr. MEL 16:10
+<ul><li> Simon Fowler</li></ul></li>
+<li> VA328, arr. MEL 16:15
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/StefanGotz">Stefan Götz</a></li></ul></li>
+<li> QF443, arr. MEL 16:35
+<ul><li> Peter Howard</li>
+<li> Tibor Bece</li></ul></li>
+<li> <span style="color: #0000ff;">JQ607, arr. <b>AVV</b> 17:00</span>
+<ul><li> Peter Vesely</li>
+<li> Thomas Chung</li>
+<li> Greg Kopff</li>
+<li> Stefan Krist</li>
+<li> Tobin Harding</li></ul></li>
+<li> QF0772, arr. MEL 17:00
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/Techman_83">Leon Wright</a></li></ul></li>
+<li> VA854, arr. MEL 17:05
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/DrJosh9000">Josh Deprez</a></li>
+<li> Robert Mibus</li></ul></li>
+<li> QF154 arr MEL 17:15
+<ul><li> Glenn Enright and partner</li></ul></li>
+<li> JQ779 arr. MEL 17:15
+<ul><li> Trevor Drake</li></ul></li>
+<li> NZ0125, arr. MEL 17:30
+<ul><li> Rodger Donaldson</li></ul></li>
+<li> QF447, arrive at Tullamarine at 17:35
+<ul><li> Matthew Ames</li></ul></li>
+<li> QF692, arr. MEL 17:45
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/clawsicus">Chris Laws</a></li>
+<li> Jerry Vanicky</li>
+<li> Chris Sincock</li></ul></li>
+<li> VA101, arr. MEL 17:50
+<ul><li> Andrew Mitchell</li></ul></li>
+<li> EY460, arr. MEL 18:30
+<ul><li> <a href="/wiki/Katie_Miller" title="Katie Miller">Katie Miller</a></li>
+<li> Andreas Frisch</li></ul></li>
+<li> TT263, arr. MEL 19:00
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/ceralena">Cera Davies</a></li></ul></li>
+<li> QF0459 arr MEL 19:35
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/thsutton">Thomas Sutton</a></li>
+<li> Will Rouesnel</li>
+<li> Justin Lynn</li>
+<li> Peter Ericson</li></ul></li>
+<li> <span style="color: #0000ff;">JQ609, arr. <b>AVV</b> 20:00</span>
+<ul><li> Jamie Wilkinson</li></ul></li>
+<li> TG461, arr. MEL 21:20
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/mukherjee_atin">Atin Mukherjee</a></li>
+<li> Vivia Nikolaidou</li>
+<li> Sebastian Dröge</li></ul></li>
+<li> VA830 (DL7269), arr. MEL 11:35
+<ul><li> Rikki Endsley</li></ul></li></ul>
+<h3><span class="mw-headline" id="Monday_1st_February_2016">Monday 1st February 2016</span></h3>
+<ul><li> VA1313, arr. 7:15 MEL Terminal 3
+<ul><li> Jamie Lennox</li></ul></li>
+<li> QF1529, arr. 9:50 MEL Terminal 1
+<ul><li> Ben Herrenschmidt</li></ul></li>
+<li> QF609, arr. 10:20 MEL Terminal 1
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/sjpwong">Simon Wong</a> (Using Gull Airport Services to transfer to Geelong)</li></ul></li>
+<li> NZ123, arr. 10:35 MEL Terminal 2
+<ul><li> Doug Thompson</li></ul></li>
+<li> JQ509, arr. 12:20 MEL Terminal 4
+<ul><li> Ruth Suehle</li></ul></li>
+<li> QF461, arr. 10:30 MEL
+<ul><li> Rob Garth</li></ul></li></ul>
+<h2><span class="mw-headline" id="Departures">Departures</span></h2>
+<h3><span class="mw-headline" id="Friday_5th_February_2016">Friday 5th February 2016</span></h3>
+<ul><li> QF440, MEL Terinal 14:30
+<ul><li> Rob Grth</li></ul></li>
+<li> <span style="color: #0000ff;">JQ610, dep. <b>AVV</b> 20:30</span>
+<ul><li> Tobin Harding</li>
+<li> Brendon Body</li></ul></li>
+<li> NZ126, Dep MEL 18:40
+<ul><li> Doug Thompson</li></ul></li>
+<li> QF701, dep. MEL 20:15
+<ul><li> Phil Ingram</li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/clawsicus">Chris Laws</a></li>
+<li> Jerry Vanicky</li>
+<li> Chris Sincock</li></ul></li></ul>
+<h3><span class="mw-headline" id="Saturday_6th_February_2016">Saturday 6th February 2016</span></h3>
+<ul><li> JQ163, dep. MEL 00:45
+<ul><li> Martin Krafft</li>
+<li> edunham</li></ul></li>
+<li> VA 819 (DL7270), dep. MEL 08:00
+<ul><li> Keith Packard</li></ul></li>
+<li> JQ602, dep. AVV 06:00
+<ul><li> Greg Kopff</li></ul></li>
+<li> <span style="color: #0000ff;">JQ604, dep. <b>AVV</b> 09:05</span>
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/jeremyvisser">Jeremy Visser</a></li></ul></li>
+<li> NZ722, dep MEL 08:45
+<ul><li> <a href="/wiki/User:Dhawke@oss.co.nz" title="User:Dhawke@oss.co.nz">Dan Hawke</a></li></ul></li>
+<li> QF418, depart Tullamarine 09:00
+<ul><li> Matthew Ames</li></ul></li>
+<li> NZ898, dep, MEL 09:05
+<ul><li> Jim Cheetham</li></ul></li>
+<li> VA679, dep. MEL 09:15
+<ul><li> Andrew Cooks</li></ul></li>
+<li> JQ508, dep. MEL 09:45
+<ul><li> Ruth Suehle</li></ul></li>
+<li> VA219, dep. MEL 10:10
+<ul><li> Clancy Cunningham</li></ul></li>
+<li> TT524, dep. MEL 11:15
+<ul><li> Simon Green</li></ul></li>
+<li> UA99, dep. MEL 11:25
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/marc_etienne_">Marc-Etienne M.Léveillé</a></li>
+<li> Elizabeth K. Joseph</li>
+<li> John Dickinson</li></ul></li>
+<li> VA323, dep. MEL 11:00 (Tullamarine)
+<ul><li> <a rel="nofollow" class="external text" href="https://openstem.com.au/">Arjen Lentz</a></li>
+<li> Lawrence Muir</li></ul></li>
+<li> UA99, dep. MEL 11:25
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/vavroom">Nicolas Steenhout</a></li>
+<li> Casey Schaufler</li>
+<li> Jonathan Corbet</li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/legoktm">Kunal Mehta</a></li></ul></li>
+<li> NZ124, dep. MEL 11:50
+<ul><li> Benno Rice</li>
+<li> Grant McLean</li>
+<li> David Zanetti</li></ul></li>
+<li> QF2138, dep. MEL 11:55
+<ul><li> Andrew Bartlett</li>
+<li> Ben Herrenschmidt</li></ul></li>
+<li> VA327, dep. MEL 12:00 to BNE
+<ul><li> Brad Marshall</li>
+<li> Joe Robinson</li>
+<li> Alexandra Settle</li>
+<li> <a rel="nofollow" class="external text" href="http://mabula.net/">Paul Wayper</a></li></ul></li>
+<li> QF430, dep. MEL 12:00
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/glasnt">Katie McLaughlin</a></li></ul></li>
+<li> QF616, dep. MEL 12:05
+<ul><li> Ian Burns</li></ul></li>
+<li> VA223, dep. MEL 12:10
+<ul><li> Matt Magin</li></ul></li>
+<li> VA1593, dep. MEL 12:20
+<ul><li> Jamie Lennox</li></ul></li>
+<li> QF812, dep. MEL 13:15
+<ul><li> Simon Fowler</li>
+<li> Aeriana</li></ul></li>
+<li> JQ574, dep. MEL 13:20
+<ul><li> Charelle Collett</li></ul></li>
+<li> VA271, dep. MEL 13:20
+<ul><li> Michael Carden</li>
+<li> <a rel="nofollow" class="external text" href="http://m0les.com">Miles Goodhew</a></li></ul></li>
+<li> QF685, dep. MEL 13:35
+<ul><li> Cary D</li></ul></li>
+<li> QF438, dep. MEL 14:00
+<ul><li> Brendan O'Dea</li></ul></li>
+<li> QF620, dep. MEL 14:05
+<ul><li> Jared Ring</li></ul></li>
+<li> MH148, dep. MEL 14:50
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/masayukig">Masayuki Igawa</a></li></ul></li>
+<li> VA853, dep. MEL 15:00
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/DrJosh9000">Josh Deprez</a></li>
+<li> James Polley</li>
+<li> Robert Mibus</li></ul></li>
+<li> VA333, dep. MEL 15:00
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/lhovo">Luke Hovington</a></li></ul></li>
+<li> QF1505, dep. MEL 15:25
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/johndalton">John Dalton</a></li></ul></li>
+<li> <span style="color: #0000ff;">JQ606, dep. <b>AVV</b> 15:25</span>
+<ul><li> Peter Chubb</li>
+<li> Peter Vesely</li>
+<li> Thomas Chung</li>
+<li> Stefan Götz</li></ul></li>
+<li> KL3880, dep. MEL 15:55
+<ul><li> Karl-Johan Karlsson</li>
+<li> Daniel Vetter</li>
+<li> Camilla Eidem Blomberg </li></ul></li>
+<li> VA1328, dep. MEL 16:20
+<ul><li> <a rel="nofollow" class="external text" href="https://www.scriptforge.org/faulteh">Scott Bragg</a></li></ul></li>
+<li> QF0481, dep. MEL 17:45
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/Techman_83">Leon Wright</a></li></ul></li>
+<li> NZ850, depart MEL 18:20
+<ul><li> Garming Sam</li>
+<li> Dave Aldridge</li>
+<li> James Parker</li>
+<li> Paul Gunn</li>
+<li> Russell Smithies</li>
+<li> Eugene Venter</li></ul></li>
+<li> NZ7912 (a.k.a. VA100), dep. MEL 18:35
+<ul><li> <a href="/wiki/User:Chris@cje.net.nz" title="User:Chris@cje.net.nz">Christopher Edsall</a></li>
+<li> Andrew Sands</li></ul></li>
+<li> NZ726, dep. MEL 18:40
+<ul><li> Steven Ellis</li>
+<li> Cherie Ellis</li>
+<li> <a rel="nofollow" class="external text" href="https://gracenolan.me/">Grace Nolan</a></li></ul></li>
+<li> VA241, dep. MEL 18:40
+<ul><li> Josh Driver</li>
+<li> Stephen M</li></ul></li>
+<li> JQ713, dep. MEL 18:55
+<ul><li> <a rel="nofollow" class="external text" href="https://keybase.io/mjec">Michael Cordover</a></li></ul></li>
+<li> VA1332, dep. MEL 19:40
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/tserong">Tim Serong</a></li>
+<li> <a rel="nofollow" class="external text" href="https://twitter.com/JackScottAU">Jack Scott</a></li></ul></li>
+<li> QF9, dep. MEL 23:25
+<ul><li> Jussi Pakkanen</li></ul></li>
+<li> QF796, dep. MEL 09:30
+<ul><li> Ian Cunningham</li></ul></li></ul>
+<h3><span class="mw-headline" id="Sunday_7th_February_2016">Sunday 7th February 2016</span></h3>
+<ul><li> QF93, dep. MEL 11:20
+<ul><li> Matthew Hiltner</li></ul></li>
+<li> VA329, dep. MEL 12:00
+<ul><li> <a rel="nofollow" class="external text" href="http://www.humbug.org.au/RussellStuart">Russell Stuart</a></li></ul></li>
+<li> VA311, dep. MEL 14:00
+<ul><li> Kimberley Manning</li></ul></li>
+<li> QF620, dep. MEL 14:05
+<ul><li> Ben Stevens</li>
+<li> Joel Addison</li></ul></li>
+<li> QF444, dep. MEL 15:30
+<ul><li> Kennedy Skelton</li></ul></li>
+<li> NZ128 dep MEL 16:05
+<ul><li> Glenn Enright and partner</li></ul></li>
+<li> VA1328, dep. MEL 16:20
+<ul><li> James 'Ender' Brown</li></ul></li>
+<li> VA337, dep. MEL 17:10
+<ul><li> Jamie Bainbridge</li></ul></li>
+<li> NZ126, dep. MEL 18:40
+<ul><li> Simon Lyall</li>
+<li> <a href="/wiki/Liz_Quilty" title="Liz Quilty">Liz Quilty</a></li></ul></li>
+<li> SQ208, dep. MEL 19:30
+<ul><li> <a rel="nofollow" class="external text" href="https://twitter.com/LGnome">Adam Harvey</a></li></ul></li>
+<li> QF653, dep. MEL 20:00
+<ul><li> Trent 'lathiat' Lloyd</li></ul></li></ul>
+<p><br />
+</p>
+<hr />
+<p>ATTENDEE TYPE: 
+</p><p><a href="/wiki/Information_for_Speakers" title="Information for Speakers">Information for Speakers</a> | <a href="/wiki/Information_for_Delegates" title="Information for Delegates">Information for Delegates</a> | <a href="/wiki/Information_for_Volunteers" title="Information for Volunteers">Information for Volunteers</a> | <a href="/wiki/Information_for_Partners_and_family" title="Information for Partners and family">Information for Partners and family</a>
+</p><p>CONFERENCE LIFECYCLE: 
+</p><p><a href="/wiki/Registering_for_linux.conf.au" title="Registering for linux.conf.au">Registering for linux.conf.au</a> | <a href="/wiki/Transport" title="Transport">Getting to linux.conf.au</a> | <a href="/wiki/Accommodation" title="Accommodation">Where to stay at linux.conf.au</a> | <a href="/wiki/What_to_expect_at_linux.conf.au" title="What to expect at linux.conf.au">What to expect at linux.conf.au</a> | <a href="/wiki/What_to_do_at_linux.conf.au" title="What to do at linux.conf.au">What to do at linux.conf.au</a> | <a href="/wiki/What_happens_after_linux.conf.au" title="What happens after linux.conf.au">What happens after linux.conf.au</a>
+</p><p>HANDY LINKS:
+</p><p><a rel="nofollow" class="external text" href="https://linux.conf.au">Conference Home</a> | <a href="/wiki/Miniconf_Info" title="Miniconf Info">Miniconf_Info</a>  | <a href="/wiki/Lightning_talks" title="Lightning talks">Lightning_talks</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/wiki/Main_Page">Wiki Home</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/register">Register</a> | <a rel="nofollow" class="external text" href="https://linux.conf.au/programme/schedule">Schedule</a> | <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/way/30678517#map=19/-38.14384/144.36039">OpenStreetMap of Geelong</a>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.068 seconds
+Real time usage: 0.073 seconds
+Preprocessor visited node count: 43/1000000
+Preprocessor generated node count: 64/1000000
+Post‐expand include size: 767/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key lca16wiki:pcache:idhash:14-0!*!0!!en!*!* and timestamp 20171114035400 and revision id 1242
+ -->
+</div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://lca2016.linux.org.au/wiki/index.php?title=Airport_Arrivals_and_Departures&amp;oldid=1242">https://lca2016.linux.org.au/wiki/index.php?title=Airport_Arrivals_and_Departures&amp;oldid=1242</a>"					</div>
+													<div id='catlinks' class='catlinks catlinks-allhidden'></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=Airport+Arrivals+and+Departures" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Airport_Arrivals_and_Departures"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/wiki/index.php?title=Talk:Airport_Arrivals_and_Departures&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Airport_Arrivals_and_Departures" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/wiki/index.php?title=Airport_Arrivals_and_Departures&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/wiki/index.php?title=Airport_Arrivals_and_Departures&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/wiki/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search LCA2016 Delegate wiki [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(images/a/a9/Geelong-Wave-Gradient.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+													<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Airport_Arrivals_and_Departures" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Airport_Arrivals_and_Departures" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-print"><a href="/wiki/index.php?title=Airport_Arrivals_and_Departures&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+													<li id="t-permalink"><a href="/wiki/index.php?title=Airport_Arrivals_and_Departures&amp;oldid=1242" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/wiki/index.php?title=Airport_Arrivals_and_Departures&amp;action=info">Page information</a></li>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 February 2016, at 13:15.</li>
+											<li id="footer-info-viewcount">This page has been accessed 23,339 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/LCA2016_Delegate_Wiki:Privacy_policy" title="LCA2016 Delegate Wiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/LCA2016_Delegate_Wiki:About" title="LCA2016 Delegate Wiki:About">About LCA2016 Delegate wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/LCA2016_Delegate_Wiki:General_disclaimer" title="LCA2016 Delegate Wiki:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="/wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"ready","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63600300-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":163});
+}</script>
+	</body>
+</html>
+	

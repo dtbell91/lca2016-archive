@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <title>
+Terms and Conditions -
+ linux.conf.au 2016 | 1 - 5 Feb | LCA By The Bay
+</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/css/carousel.css" rel="stylesheet">
+    <link href="/css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">linux.conf.au 2016</a>
+            </div>
+	    
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav">
+          <li class=""><a href="/">Home</a></li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/about/linux.conf.au">linux.conf.au</a></li>
+          
+                  <li><a href="/about/geelong">Geelong</a></li>
+          
+                  <li><a href="/about/buses">Buses</a></li>
+          
+                  <li><a href="/about/team">Team</a></li>
+          
+                  <li><a href="/about/venue">Venue</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sponsors<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/sponsors/sponsors">Sponsors</a></li>
+          
+                  <li><a href="/sponsors/why_sponsor">Why Sponsor</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Programme<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/programme/about">About</a></li>
+          
+                  <li><a href="/programme/social_events">Social Events</a></li>
+          
+                  <li><a href="/programme/miniconfs">Miniconfs</a></li>
+          
+                  <li><a href="/programme/sunday">Sunday</a></li>
+          
+                  <li><a href="/programme/monday">Monday</a></li>
+          
+                  <li><a href="/programme/tuesday">Tuesday</a></li>
+          
+                  <li><a href="/programme/wednesday">Wednesday</a></li>
+          
+                  <li><a href="/programme/thursday">Thursday</a></li>
+          
+                  <li><a href="/programme/friday">Friday</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Register<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/register/info">Info</a></li>
+          
+                  <li><a href="/register/accommodation">Accommodation</a></li>
+          
+                  <li><a href="/register/business_case">Business Case</a></li>
+          
+                  <li><a href="/register/code_of_conduct">Code of Conduct</a></li>
+          
+                  <li><a href="/register/environment">Environment</a></li>
+          
+                  <li><a href="/register/volunteer">Volunteer</a></li>
+          
+                  <li><a href="/register/terms_and_conditions">Terms and Conditions</a></li>
+              </ul>
+          </li>
+          <li class=""><a href="/media/news">News</a></li>
+          <li class=""><a href="/contact">Contact</a></li>
+          <li class=""><a href="/wiki">Wiki</a></li>
+      </ul>
+</div>
+
+            <div id="navbar" class="navbar-collapse collapse">
+<!-- This was the original nav bar code
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+                </li>
+              </ul>
+-->
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<!-- Indicators -->
+      <ol class="carousel-indicators">
+   
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+      
+      </ol>
+      <div class="carousel-inner" role="listbox">
+
+   
+        <div class="item active">
+                            <div style="height: 100%; background-image: url(/img/banner/4a.jpg); background-size: cover; background-position: 80% 75%;">
+</div>
+<div style="position: absolute; bottom: 0; right: 0.5em; font-size: 10px; color: white">
+<p>Kathy Reid/CC-BY-NC-SA</p>
+</div>
+<style type="text/css" scoped>
+.lca2016-banner-logo
+{
+max-height: 210px;
+vertical-align: middle;
+}
+</style>
+<div class="container">
+<div class="carousel-caption">
+  <img class="img-responsive center-block lca2016-banner-logo" src="/img/lca2016_logo.svg">
+  </div>
+</div>
+            </div>
+            
+        <div class="item">
+              <div style="height: 100%; background-size: cover; background-position: 80% 75%; background-image: url(/img/banner/hobart-banner.png);">
+</div>
+<div style="position: absolute; bottom: 0; right: 0.5em; font-size: 10px; color: white">
+<p>
+Christopher Neugebauer/CC-BY-SA</p>
+</div>
+<div class="container-fluid">
+<div class="carousel-caption" style="text-shadow: 0px 1px 5px rgb(0, 0, 0); color: white;">
+  <div class="row hidden-xs">
+  <div class="col-lg-4 col-lg-offset-2 col-sm-6"><p style="text-align: left; font-size: 5rem; line-height: 4rem;">JANUARY<br>2017<br><b>HOBART</b></p><p></p></div>
+  <div class="col-lg-4 col-sm-6"><p style="text-align: right; font-size: 5rem; line-height: 4rem;">LINUX<br>.CONF<br>.AU</p></div>
+  </div>
+  <div class="row visible-xs-block">
+    <p style="line-height: 4rem; font-size: 5rem;">JANUARY 2017 <b>HOBART</b></p>
+  <p style="line-height: 4rem; font-size: 3rem;">LINUX.CONF.AU</p>
+  </div>
+  <div class="row">
+  <a href="https://hobart.lca2017.org" class="btn btn-info" role="button">More Info</a>
+  </div>
+</div>
+</div>
+            </div>
+            
+</div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+
+    <!-- /.carousel -->
+
+  <div id="wrapper"><!-- Main wrapper for the sidebar -->
+    <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <div id="background-image-disabled"></div>
+            <ul class="sidebar-nav">
+                
+
+
+
+
+
+      
+
+      <li><a href="/person/signin"><span class="l"></span><span class="r"></span><span class="t">Sign in</span></a>
+
+      
+
+      <li><a href="/person/new"><span class="l"></span><span class="r"></span><span class="t">Create an account</span></a>
+
+<div style="text-align:center;">
+</div>
+</ul>
+
+            </ul>
+        </div>
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+    <div id="page-content-wrapper" class="toggled">
+    <a href="#menu-toggle" class="btn btn-default btn-xs" id="menu-toggle" style="margin-left: -13px;">Toggle Menu</a>
+    
+    <div class="container-fluid marketing">
+    <!-- START THE FEATURETTES -->
+      <div class="row featurette">
+        <div class="col-md-8 col-md-offset-2">
+              <div id="flash">
+
+    </div>
+
+          
+
+
+
+
+<h2>Terms and Conditions</h2>
+
+
+
+<p>These Terms and Conditions apply to all attendees who have registered for linux.conf.au 2016 and/or linux.conf.au 2016-related events.</p>
+<a name="Registration"></a><h3>Registration</h3>
+<p>Registering for the event does not guarantee your ticket until it has been paid for in full. So to secure your ticket, pay the registration invoice as soon as possible.</p>
+<a name="SecurityandCreditCards"></a><h3>Security and Credit Cards</h3>
+<p>All transactions are performed through a payment gateway facility and use SSL with 128-bit encryption. The facility accepts MasterCard and Visa. All transactions are performed by the event organisers on behalf of Linux Australia.</p>
+<a name="CancellationPolicy"></a><h3>Cancellation Policy</h3>
+<ul>
+<li>Cancellations made prior to 1 December 2015 &#8211; any registration fee paid will be refunded in full.</li>
+<li>Cancellations made between 1 December and 31 December 2015 &#8211; incur a 15% cancellation fee, which will be deducted from any registration fee paid. The balance will be refunded.</li>
+<li>Cancellations made after 31 December 2015 &#8211; No refund.</li>
+</ul>
+<a name="Substitutions"></a><h3>Substitutions</h3>
+<p>You may substitute another person, however you must contact us with this person&#8217;s details. If you wish to substitute after 30th November 2015, please note that we will not be able to provide any personalised items.</p>
+<a name="PrivacyNotice"></a><h3>Privacy Notice</h3>
+<p>In the course of registering for the event and related events, personal information will be collected about attendees such as their name, contact details, etc. This information is required to facilitate registration to to the event, for catering requirements, and for organisers or their agents to contact particular attendees as and when required in respect of the event. Attendees who do not disclose this personal information will be unable to complete registration at the event and will therefore not be able to attend.</p>
+<p>Personal information will only be disclosed to Linux Australia, and to Government agencies where organisers believe disclosure is appropriate for legal compliance and law enforcement; to facilitate court proceedings; to enforce our terms and conditions; or to protect the rights, property, or safety of the event, our attendees, or others. Linux Australia will not sell your personal information to third parties and will not use your personal information to send promotional material from any of our affiliated partners and/or sponsors.</p>
+<p>As part of the registration process attendees will be asked if they would like to subscribe to the event Mailing Lists and/or the event Announce Mailing List. Attendees who subscribe to one or more of these lists will be sent emails from the event organisers and other subscribers to the Mailing Lists. If at any time, attendees wish to unsubscribe from any of these Mailing Lists, please follow the &#8216;how to unsubscribe&#8217; directions on the bottom of any message you receive from these Mailing Lists.</p>
+<p>From time to time event organisers update their information and website practices. Please regularly review this page for the most recent information about the event privacy practices.</p>
+<p>All personal information will be kept private and used only for event registration purposes, statistics for future events, and convenience for future event registration.</p>
+<a name="Network"></a><h3>Network</h3>
+<p>The event may provide attendees with access to a wired and/or wireless network. The access to this network is a privilege and not an entitlement, and must be used appropriately. Inappropriate use includes, but is not limited to: unlawful activities, interfering with the equipment or network access of others and not respecting the reasonable expectations of privacy that attendees have for traffic flowing though the network.</p>
+<p>Any deliberately malicious activities on either the wired or wireless networks will be grounds for instant dismissal from the conference (without reimbursement).</p>
+<p>If any attendees use the network inappropriately, then the linux.conf.au organisers will take any enforcement action they consider appropriate. Enforcement action includes but is not limited to:</p>
+<ul>
+<li>suspending access to the network</li>
+<li>disconnecting the network permanently</li>
+<li>the alleged offender may be asked to immediately leave the venue and/or will be prohibited from continuing to attend linux.conf.au (without reimbursement)</li>
+<li>the incident may be reported to the Australian Police</li>
+<li>any other measure the linux.conf.au organisers see fit</li>
+</ul>
+<p>Beware that for security and operational reasons linux.conf.au may both monitor and log network traffic.</p>
+<a name="AudioVisual"></a><h3>Audio Visual</h3>
+<p>Event organisers may provide recordings of talks (audio and/or video) given at the event. This service is provided on a best-effort basis only. Any recordings will be released as and when they are ready, which may be some time after the conclusion of the event, and the recordings may be of varying quality.</p>
+<a name="DiscriminationandAntiSocialBehaviour"></a><h3>Discrimination and Anti-Social Behaviour</h3>
+<p>Linux Australia is proud to support diverse groups of people in IT, particularly women, and will not tolerate in any fashion any intimidation, harassment, and/or any abusive, discriminatory or derogatory behaviour by any attendees of the event and/or related events.<br />
+Examples of these behaviours and measures the event organisers or Linux Australia may take are set out in the Code of Conduct. By registering for and attending a Linux Australia event, you agree to this Code of Conduct.</p>
+<a name="Media"></a><h3>Media</h3>
+<p>There are a limited number of Media Passes available to media personnel. Media Passes are free of charge, and entitle media personnel to attend the event with all the entitlements of a Professional registration. Please note, due to the limited numbers of Media Passes available, all Media Passes will need to be approved by the event organisers.</p>
+<p>Any media attending the event are required to identify themselves as &#8220;media&#8221; to attendees prior to speaking on the record with any attendees of the event. It is the responsibility of the media to introduce themselves to the persons they wish to interview and to arrange any interviews with those persons. The event organisers will not make introductions or arrange interviews on behalf of media.</p>
+<p>To apply for a Media Pass, please contact media@lcabythebay.org.au</p>
+<a name="Students"></a><h3>Students</h3>
+<p>Students who register for a student ticket (if available) to attend the event may be required to provide event organisers with proof that they are eligible for registration as a student, such as providing a valid full time student ID card.</p>
+<a name="Alcohol"></a><h3>Alcohol</h3>
+<p>Liquor licensing laws require persons to be aged 18 years and older before they can lawfully drink alcohol in Australia. The licensed premises used as linux.conf.au 2016 venues will not serve alcohol to persons 18 years and under. Those attendees who look under 25 years old, may be required to show identification such as a Passport (non-Australian driver licences are generally not accepted) to licensed premises proving they are 18 years old or older.</p>
+<p>Those attendees who are younger than 18 years old are required to advise event organisers of their age, when they register. Those attendees may not be able to attend all of the associated social events.</p>
+<p>Please consume alcohol responsibly. Please note, licensed premises in Australia are prohibited from selling or supplying alcohol to intoxicated persons. Please adhere to local liquor laws which are available in most licensed establishments.</p>
+<a name="Smokefree"></a><h3>Smoke-free</h3>
+<p>All event venues including the social event venues are smoke-free. If attendees wish to smoke during the event and/or related events, they must do so in signed areas. Please consider others and refrain from smoking directly outside the venues&#8217; entrances.</p>
+<a name="HealthandSafety"></a><h3>Health and Safety</h3>
+<p>If you are attending the event as a Keynote Presenter, Speaker, Miniconf Organiser or Miniconf Presenter, it is your responsibility to ensure that your talk meets the Health and Safety requirements under Australian law. If you are unsure, please contact linux.conf.au organisers on contact@lcabythebay.org.au to discuss it further.</p>
+<a name="ImmigrationEntryRequirements"></a><h3>Immigration/Entry Requirements</h3>
+<p>Anyone who lives outside Australia will need a passport and may require a visa to gain entry into Australia. Please contact your local Australian Embassy department to determine your travel needs. You should take into account the Cancellation Policy above and do this well in advance of the event.</p>
+<p>Where a letter of invitation is required, one will be issued by event organisers for Keynote Presenters and Speakers or Miniconf Organisers whose submissions have been accepted only.</p>
+
+
+
+
+
+
+
+
+
+        </div>
+       <div class="col-md-8 col-md-offset-2">
+          <br />
+          <img class="featurette-image img-responsive center-block" src="/img/Geelong-Wave-Gradient-greyscale-small.png" alt="Geelong 2016">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+      <div class="row">
+        <div class="col-lg-8 col-md-offset-2">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title" style="text-align: center;">Our Emperor Penguin Sponsors</h1>
+            </div>
+            <div class="panel-body">
+              <div class="row">
+                <div class="col-xs-6 col-sm-4 col-sm-offset-1">
+                  <img width="100%" src="/img/sponsors/HPE_logo.svg">
+                </div>
+                <div class="col-xs-6 col-sm-4 col-sm-offset-2">
+                  <img width="100%" src="/img/sponsors/IBM_logo.svg">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="/img/bollards2.jpg" alt="Geelong" width="140" height="140">
+          <h2>About Geelong</h2>
+          <p>Geelong is Victoria's second largest city, located on Corio Bay, and within a short drive from popular beach-front communities on the Bellarine Peninsula as well as being the gateway to the famous Great Ocean Road</p>
+          <p><a class="btn btn-default" href="/about/geelong" role="button">More Info &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/img/Tux-simple.svg" alt="linux.conf.au" width="140" height="140">
+          <h2>linux.conf.au</h2>
+          <p>linux.conf.au is widely regarded by delegates as one of the best community run Linux conferences worldwide and is the largest Linux and Open Source Software conference in the Asia-Pacific.</p>
+          <p><a class="btn btn-default" href="/about/linux.conf.au" role="button">Read More &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/img/ThePier-Crop.png" alt="Sponsorship" width="140" height="140">
+          <h2>Sponsorship</h2>
+          <p>Our Sponsors help make linux.conf.au become the awesome conference everyone comes back to year after year. Come see who's on board this year, or find out how to get in contact with us</p>
+          <p><a class="btn btn-default" href="/sponsors/sponsors" role="button">Sponsorship &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+    </div><!-- /.container marketing -->
+
+
+      <!-- FOOTER -->
+      <footer>
+        <p style="text-align: center;">&copy; 2015 linux.conf.au 2016 and <a href="http://linux.org.au">Linux Australia</a> &middot; Linux is a registered trademark of Linus Torvalds &middot; <a href="/sitemap">Sitemap</a></p>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+      </footer>
+
+    </div><!-- /.container page-content-wrapping-->
+  </div><!--/.container wrapper -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/validator.min.js"></script>
+    <script src="/js/sorttable.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/js/ie10-viewport-bug-workaround.js"></script>
+    
+    <!-- Sidebar Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-63600300-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>
+

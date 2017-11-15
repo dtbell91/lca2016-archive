@@ -1,0 +1,722 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <title>linux.conf.au 2016 | 1 - 5 Feb | LCA By The Bay</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/css/carousel.css" rel="stylesheet">
+    <link href="/css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">linux.conf.au 2016</a>
+            </div>
+	    
+<div id="navbar" class="navbar-collapse collapse">
+  <ul class="nav navbar-nav">
+          <li class=""><a href="/">Home</a></li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/about/linux.conf.au">linux.conf.au</a></li>
+          
+                  <li><a href="/about/geelong">Geelong</a></li>
+          
+                  <li><a href="/about/buses">Buses</a></li>
+          
+                  <li><a href="/about/team">Team</a></li>
+          
+                  <li><a href="/about/venue">Venue</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sponsors<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/sponsors/sponsors">Sponsors</a></li>
+          
+                  <li><a href="/sponsors/why_sponsor">Why Sponsor</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Programme<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/programme/about">About</a></li>
+          
+                  <li><a href="/programme/social_events">Social Events</a></li>
+          
+                  <li><a href="/programme/miniconfs">Miniconfs</a></li>
+          
+                  <li><a href="/programme/sunday">Sunday</a></li>
+          
+                  <li><a href="/programme/monday">Monday</a></li>
+          
+                  <li><a href="/programme/tuesday">Tuesday</a></li>
+          
+                  <li><a href="/programme/wednesday">Wednesday</a></li>
+          
+                  <li><a href="/programme/thursday">Thursday</a></li>
+          
+                  <li><a href="/programme/friday">Friday</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Register<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+          
+                  <li><a href="/register/info">Info</a></li>
+          
+                  <li><a href="/register/accommodation">Accommodation</a></li>
+          
+                  <li><a href="/register/business_case">Business Case</a></li>
+          
+                  <li><a href="/register/code_of_conduct">Code of Conduct</a></li>
+          
+                  <li><a href="/register/environment">Environment</a></li>
+          
+                  <li><a href="/register/volunteer">Volunteer</a></li>
+          
+                  <li><a href="/register/terms_and_conditions">Terms and Conditions</a></li>
+              </ul>
+          </li>
+          <li class=""><a href="/media/news">News</a></li>
+          <li class=""><a href="/contact">Contact</a></li>
+          <li class=""><a href="/wiki">Wiki</a></li>
+      </ul>
+</div>
+
+            <div id="navbar" class="navbar-collapse collapse">
+<!-- This was the original nav bar code
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+                </li>
+              </ul>
+-->
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<!-- Indicators -->
+      <ol class="carousel-indicators">
+   
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+      
+      </ol>
+      <div class="carousel-inner" role="listbox">
+
+   
+        <div class="item active">
+                            <div style="height: 100%; background-image: url(/img/banner/4a.jpg); background-size: cover; background-position: 80% 75%;">
+</div>
+<div style="position: absolute; bottom: 0; right: 0.5em; font-size: 10px; color: white">
+<p>Kathy Reid/CC-BY-NC-SA</p>
+</div>
+<style type="text/css" scoped>
+.lca2016-banner-logo
+{
+max-height: 210px;
+vertical-align: middle;
+}
+</style>
+<div class="container">
+<div class="carousel-caption">
+  <img class="img-responsive center-block lca2016-banner-logo" src="/img/lca2016_logo.svg">
+  </div>
+</div>
+            </div>
+            
+        <div class="item">
+              <div style="height: 100%; background-size: cover; background-position: 80% 75%; background-image: url(/img/banner/hobart-banner.png);">
+</div>
+<div style="position: absolute; bottom: 0; right: 0.5em; font-size: 10px; color: white">
+<p>
+Christopher Neugebauer/CC-BY-SA</p>
+</div>
+<div class="container-fluid">
+<div class="carousel-caption" style="text-shadow: 0px 1px 5px rgb(0, 0, 0); color: white;">
+  <div class="row hidden-xs">
+  <div class="col-lg-4 col-lg-offset-2 col-sm-6"><p style="text-align: left; font-size: 5rem; line-height: 4rem;">JANUARY<br>2017<br><b>HOBART</b></p><p></p></div>
+  <div class="col-lg-4 col-sm-6"><p style="text-align: right; font-size: 5rem; line-height: 4rem;">LINUX<br>.CONF<br>.AU</p></div>
+  </div>
+  <div class="row visible-xs-block">
+    <p style="line-height: 4rem; font-size: 5rem;">JANUARY 2017 <b>HOBART</b></p>
+  <p style="line-height: 4rem; font-size: 3rem;">LINUX.CONF.AU</p>
+  </div>
+  <div class="row">
+  <a href="https://hobart.lca2017.org" class="btn btn-info" role="button">More Info</a>
+  </div>
+</div>
+</div>
+            </div>
+            
+</div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+
+    <!-- /.carousel -->
+
+  <div id="wrapper"><!-- Main wrapper for the sidebar -->
+    <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <div id="background-image-disabled"></div>
+            <ul class="sidebar-nav">
+                
+
+
+
+
+
+      
+
+      <li><a href="/person/signin"><span class="l"></span><span class="r"></span><span class="t">Sign in</span></a>
+
+      
+
+      <li class="selected"><a href="/person/new"><span class="l"></span><span class="r"></span><span class="t">Create an account</span></a>
+
+
+</ul>
+
+            </ul>
+        </div>
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+    <div id="page-content-wrapper" class="toggled">
+    <a href="#menu-toggle" class="btn btn-default btn-xs" id="menu-toggle" style="margin-left: -13px;">Toggle Menu</a>
+    
+    <div class="container-fluid marketing">
+    <!-- START THE FEATURETTES -->
+      <div class="row featurette">
+        <div class="col-md-8 col-md-offset-2">
+              <div id="flash">
+
+    </div>
+
+          
+
+<h1>New user account creation</h1>
+
+<p class="lead">Enter your name, and email address, and password, and we'll email you with a confirmation to create your account.</p>
+
+<p class="lead">
+If you've already got an account but can't log in, you can
+<a href="/person/forgotten_password">recover your password</a>.
+</p>
+
+<form action="/person/new" method="post" data-toggle="validator">
+    <div class="form-group">
+      <div class="input-group">
+        <input type="text" id="personfirstname" class="form-control" placeholder="First Name" name="person.firstname" value="" />
+        <span class="input-group-addon" id="basic-addon2">required</span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="input-group">
+        <input type="text" id="personlastname" class="form-control" placeholder="Last Name" name="person.lastname" required="" value="" />
+        <span class="input-group-addon" id="basic-addon2">required</span>
+      </div>
+    </div>
+
+<input id="personcompany" name="person.company" type="hidden" value="" /></p>
+
+    <div class="form-group">
+      <div class="input-group">
+        <input type="email" id="personemail_address" class="form-control" placeholder="Email Address" name="person.email_address" data-error="Uh Oh, that email address doesn't look right" value="" />
+        <span class="input-group-addon" id="basic-addon2">required</span>
+      </div>
+      <div class="help-block with-errors"></div>
+    </div>
+
+    <div class="form-group">
+      <div class="input-group">
+        <input type="password" id="personpassword" class="form-control" placeholder="Password" name="person.password" value="" />
+        <span class="input-group-addon" id="basic-addon2">Min. 8 Char</span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="input-group">
+        <input type="password" id="personpassword_confirm" class="form-control" placeholder="Confirm" name="person.password_confirm" data-match="#personpassword" data-match-error="Whoops, these don't match" required="" value="" />
+        <span class="input-group-addon" id="basic-addon2">Must Match</span>
+      </div>
+      <div class="help-block with-errors"></div>
+    </div>
+<br />
+    <div class="form-group">
+      <div class="input-group">
+        <input type="text" id="personphone" class="form-control" placeholder="Phone Number" name="person.phone" required="" value="" />
+        <span class="input-group-addon" id="basic-addon2">required</span>
+      </div>
+      <div class="help-block with-errors"></div>
+    </div>
+
+    <div class="form-group">
+      <div class="input-group">
+        <input type="text" id="personaddress1" class="form-control" placeholder="Address" name="person.address1" required="" value="" />
+        <span class="input-group-addon" id="basic-addon2">required</span>
+      </div>
+      <div class="help-block with-errors"></div>
+    </div>
+    <div class="form-group">
+        <input type="text" id="personaddress2" class="form-control" placeholder="Additional Address" name="person.address2" value="" />
+    </div>
+
+    <div class="form-group">
+      <div class="input-group">
+        <input type="text" id="personcity" class="form-control" placeholder="City/Suburb" name="person.city" required="" value="" />
+        <span class="input-group-addon" id="basic-addon2">required</span>
+      </div>
+      <div class="help-block with-errors"></div>
+    </div>
+
+    <div class="form-group">
+        <input type="text" id="personstate" class="form-control" placeholder="State" name="person.state" value="" />
+    </div>
+
+    <div class="form-group">
+      <div class="input-group">
+        <input type="text" id="personpostcode" class="form-control" placeholder="Postcode/ZIP" name="person.postcode" required="" value="" />
+        <span class="input-group-addon" id="basic-addon2">required</span>
+      </div>
+      <div class="help-block with-errors"></div>
+    </div>
+    
+
+    <div class="form-group">
+      <div class="input-group">
+        <select id="personcountry" class="form-control" placeholder="Country" name="person.country">
+          <option value="AFGHANISTAN">AFGHANISTAN</option>
+          <option value="ALBANIA">ALBANIA</option>
+          <option value="ALGERIA">ALGERIA</option>
+          <option value="AMERICAN SAMOA">AMERICAN SAMOA</option>
+          <option value="ANDORRA">ANDORRA</option>
+          <option value="ANGOLA">ANGOLA</option>
+          <option value="ANGUILLA">ANGUILLA</option>
+          <option value="ANTARCTICA">ANTARCTICA</option>
+          <option value="ANTIGUA AND BARBUDA">ANTIGUA AND BARBUDA</option>
+          <option value="ARGENTINA">ARGENTINA</option>
+          <option value="ARMENIA">ARMENIA</option>
+          <option value="ARUBA">ARUBA</option>
+          <option value="AUSTRALIA" selected="selected">AUSTRALIA</option>
+          <option value="AUSTRIA">AUSTRIA</option>
+          <option value="AZERBAIJAN">AZERBAIJAN</option>
+          <option value="BAHAMAS">BAHAMAS</option>
+          <option value="BAHRAIN">BAHRAIN</option>
+          <option value="BANGLADESH">BANGLADESH</option>
+          <option value="BARBADOS">BARBADOS</option>
+          <option value="BELARUS">BELARUS</option>
+          <option value="BELGIUM">BELGIUM</option>
+          <option value="BELIZE">BELIZE</option>
+          <option value="BENIN">BENIN</option>
+          <option value="BERMUDA">BERMUDA</option>
+          <option value="BHUTAN">BHUTAN</option>
+          <option value="BOLIVIA">BOLIVIA</option>
+          <option value="BOSNIA AND HERZEGOVINA">BOSNIA AND HERZEGOVINA</option>
+          <option value="BOTSWANA">BOTSWANA</option>
+          <option value="BOUVET ISLAND">BOUVET ISLAND</option>
+          <option value="BRAZIL">BRAZIL</option>
+          <option value="BRITISH INDIAN OCEAN TERRITORY">BRITISH INDIAN OCEAN TERRITORY</option>
+          <option value="BRUNEI DARUSSALAM">BRUNEI DARUSSALAM</option>
+          <option value="BULGARIA">BULGARIA</option>
+          <option value="BURKINA FASO">BURKINA FASO</option>
+          <option value="BURUNDI">BURUNDI</option>
+          <option value="CAMBODIA">CAMBODIA</option>
+          <option value="CAMEROON">CAMEROON</option>
+          <option value="CANADA">CANADA</option>
+          <option value="CAPE VERDE">CAPE VERDE</option>
+          <option value="CAYMAN ISLANDS">CAYMAN ISLANDS</option>
+          <option value="CENTRAL AFRICAN REPUBLIC">CENTRAL AFRICAN REPUBLIC</option>
+          <option value="CHAD">CHAD</option>
+          <option value="CHILE">CHILE</option>
+          <option value="CHINA">CHINA</option>
+          <option value="CHRISTMAS ISLAND">CHRISTMAS ISLAND</option>
+          <option value="COCOS (KEELING) ISLANDS">COCOS (KEELING) ISLANDS</option>
+          <option value="COLOMBIA">COLOMBIA</option>
+          <option value="COMOROS">COMOROS</option>
+          <option value="CONGO">CONGO</option>
+          <option value="CONGO, THE DEMOCRATIC REPUBLIC OF THE">CONGO, THE DEMOCRATIC REPUBLIC OF THE</option>
+          <option value="COOK ISLANDS">COOK ISLANDS</option>
+          <option value="COSTA RICA">COSTA RICA</option>
+          <option value="CROATIA">CROATIA</option>
+          <option value="CUBA">CUBA</option>
+          <option value="CYPRUS">CYPRUS</option>
+          <option value="CZECH REPUBLIC">CZECH REPUBLIC</option>
+          <option value="CÃTE D&#39;IVOIRE">CÃTE D&#39;IVOIRE</option>
+          <option value="DENMARK">DENMARK</option>
+          <option value="DJIBOUTI">DJIBOUTI</option>
+          <option value="DOMINICA">DOMINICA</option>
+          <option value="DOMINICAN REPUBLIC">DOMINICAN REPUBLIC</option>
+          <option value="ECUADOR">ECUADOR</option>
+          <option value="EGYPT">EGYPT</option>
+          <option value="EL SALVADOR">EL SALVADOR</option>
+          <option value="EQUATORIAL GUINEA">EQUATORIAL GUINEA</option>
+          <option value="ERITREA">ERITREA</option>
+          <option value="ESTONIA">ESTONIA</option>
+          <option value="ETHIOPIA">ETHIOPIA</option>
+          <option value="FALKLAND ISLANDS (MALVINAS)">FALKLAND ISLANDS (MALVINAS)</option>
+          <option value="FAROE ISLANDS">FAROE ISLANDS</option>
+          <option value="FIJI">FIJI</option>
+          <option value="FINLAND">FINLAND</option>
+          <option value="FRANCE">FRANCE</option>
+          <option value="FRENCH GUIANA">FRENCH GUIANA</option>
+          <option value="FRENCH POLYNESIA">FRENCH POLYNESIA</option>
+          <option value="FRENCH SOUTHERN TERRITORIES">FRENCH SOUTHERN TERRITORIES</option>
+          <option value="GABON">GABON</option>
+          <option value="GAMBIA">GAMBIA</option>
+          <option value="GEORGIA">GEORGIA</option>
+          <option value="GERMANY">GERMANY</option>
+          <option value="GHANA">GHANA</option>
+          <option value="GIBRALTAR">GIBRALTAR</option>
+          <option value="GREECE">GREECE</option>
+          <option value="GREENLAND">GREENLAND</option>
+          <option value="GRENADA">GRENADA</option>
+          <option value="GUADELOUPE">GUADELOUPE</option>
+          <option value="GUAM">GUAM</option>
+          <option value="GUATEMALA">GUATEMALA</option>
+          <option value="GUERNSEY">GUERNSEY</option>
+          <option value="GUINEA">GUINEA</option>
+          <option value="GUINEA-BISSAU">GUINEA-BISSAU</option>
+          <option value="GUYANA">GUYANA</option>
+          <option value="HAITI">HAITI</option>
+          <option value="HEARD ISLAND AND MCDONALD ISLANDS">HEARD ISLAND AND MCDONALD ISLANDS</option>
+          <option value="HOLY SEE (VATICAN CITY STATE)">HOLY SEE (VATICAN CITY STATE)</option>
+          <option value="HONDURAS">HONDURAS</option>
+          <option value="HONG KONG">HONG KONG</option>
+          <option value="HUNGARY">HUNGARY</option>
+          <option value="ICELAND">ICELAND</option>
+          <option value="INDIA">INDIA</option>
+          <option value="INDONESIA">INDONESIA</option>
+          <option value="IRAN, ISLAMIC REPUBLIC OF">IRAN, ISLAMIC REPUBLIC OF</option>
+          <option value="IRAQ">IRAQ</option>
+          <option value="IRELAND">IRELAND</option>
+          <option value="ISLE OF MAN">ISLE OF MAN</option>
+          <option value="ISRAEL">ISRAEL</option>
+          <option value="ITALY">ITALY</option>
+          <option value="JAMAICA">JAMAICA</option>
+          <option value="JAPAN">JAPAN</option>
+          <option value="JERSEY">JERSEY</option>
+          <option value="JORDAN">JORDAN</option>
+          <option value="KAZAKHSTAN">KAZAKHSTAN</option>
+          <option value="KENYA">KENYA</option>
+          <option value="KIRIBATI">KIRIBATI</option>
+          <option value="KOREA, DEMOCRATIC PEOPLE&#39;S REPUBLIC OF">KOREA, DEMOCRATIC PEOPLE&#39;S REPUBLIC OF</option>
+          <option value="KOREA, REPUBLIC OF">KOREA, REPUBLIC OF</option>
+          <option value="KUWAIT">KUWAIT</option>
+          <option value="KYRGYZSTAN">KYRGYZSTAN</option>
+          <option value="LAO PEOPLE&#39;S DEMOCRATIC REPUBLIC">LAO PEOPLE&#39;S DEMOCRATIC REPUBLIC</option>
+          <option value="LATVIA">LATVIA</option>
+          <option value="LEBANON">LEBANON</option>
+          <option value="LESOTHO">LESOTHO</option>
+          <option value="LIBERIA">LIBERIA</option>
+          <option value="LIBYAN ARAB JAMAHIRIYA">LIBYAN ARAB JAMAHIRIYA</option>
+          <option value="LIECHTENSTEIN">LIECHTENSTEIN</option>
+          <option value="LITHUANIA">LITHUANIA</option>
+          <option value="LUXEMBOURG">LUXEMBOURG</option>
+          <option value="MACAO">MACAO</option>
+          <option value="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option>
+          <option value="MADAGASCAR">MADAGASCAR</option>
+          <option value="MALAWI">MALAWI</option>
+          <option value="MALAYSIA">MALAYSIA</option>
+          <option value="MALDIVES">MALDIVES</option>
+          <option value="MALI">MALI</option>
+          <option value="MALTA">MALTA</option>
+          <option value="MARSHALL ISLANDS">MARSHALL ISLANDS</option>
+          <option value="MARTINIQUE">MARTINIQUE</option>
+          <option value="MAURITANIA">MAURITANIA</option>
+          <option value="MAURITIUS">MAURITIUS</option>
+          <option value="MAYOTTE">MAYOTTE</option>
+          <option value="MEXICO">MEXICO</option>
+          <option value="MICRONESIA, FEDERATED STATES OF">MICRONESIA, FEDERATED STATES OF</option>
+          <option value="MOLDOVA, REPUBLIC OF">MOLDOVA, REPUBLIC OF</option>
+          <option value="MONACO">MONACO</option>
+          <option value="MONGOLIA">MONGOLIA</option>
+          <option value="MONTENEGRO">MONTENEGRO</option>
+          <option value="MONTSERRAT">MONTSERRAT</option>
+          <option value="MOROCCO">MOROCCO</option>
+          <option value="MOZAMBIQUE">MOZAMBIQUE</option>
+          <option value="MYANMAR">MYANMAR</option>
+          <option value="NAMIBIA">NAMIBIA</option>
+          <option value="NAURU">NAURU</option>
+          <option value="NEPAL">NEPAL</option>
+          <option value="NETHERLANDS">NETHERLANDS</option>
+          <option value="NETHERLANDS ANTILLES">NETHERLANDS ANTILLES</option>
+          <option value="NEW CALEDONIA">NEW CALEDONIA</option>
+          <option value="NEW ZEALAND">NEW ZEALAND</option>
+          <option value="NICARAGUA">NICARAGUA</option>
+          <option value="NIGER">NIGER</option>
+          <option value="NIGERIA">NIGERIA</option>
+          <option value="NIUE">NIUE</option>
+          <option value="NORFOLK ISLAND">NORFOLK ISLAND</option>
+          <option value="NORTHERN MARIANA ISLANDS">NORTHERN MARIANA ISLANDS</option>
+          <option value="NORWAY">NORWAY</option>
+          <option value="OMAN">OMAN</option>
+          <option value="PAKISTAN">PAKISTAN</option>
+          <option value="PALAU">PALAU</option>
+          <option value="PALESTINIAN TERRITORY, OCCUPIED">PALESTINIAN TERRITORY, OCCUPIED</option>
+          <option value="PANAMA">PANAMA</option>
+          <option value="PAPUA NEW GUINEA">PAPUA NEW GUINEA</option>
+          <option value="PARAGUAY">PARAGUAY</option>
+          <option value="PERU">PERU</option>
+          <option value="PHILIPPINES">PHILIPPINES</option>
+          <option value="PITCAIRN">PITCAIRN</option>
+          <option value="POLAND">POLAND</option>
+          <option value="PORTUGAL">PORTUGAL</option>
+          <option value="PUERTO RICO">PUERTO RICO</option>
+          <option value="QATAR">QATAR</option>
+          <option value="ROMANIA">ROMANIA</option>
+          <option value="RUSSIAN FEDERATION">RUSSIAN FEDERATION</option>
+          <option value="RWANDA">RWANDA</option>
+          <option value="RÃUNION">RÃUNION</option>
+          <option value="SAINT BARTHÃLEMY">SAINT BARTHÃLEMY</option>
+          <option value="SAINT HELENA">SAINT HELENA</option>
+          <option value="SAINT KITTS AND NEVIS">SAINT KITTS AND NEVIS</option>
+          <option value="SAINT LUCIA">SAINT LUCIA</option>
+          <option value="SAINT MARTIN">SAINT MARTIN</option>
+          <option value="SAINT PIERRE AND MIQUELON">SAINT PIERRE AND MIQUELON</option>
+          <option value="SAINT VINCENT AND THE GRENADINES">SAINT VINCENT AND THE GRENADINES</option>
+          <option value="SAMOA">SAMOA</option>
+          <option value="SAN MARINO">SAN MARINO</option>
+          <option value="SAO TOME AND PRINCIPE">SAO TOME AND PRINCIPE</option>
+          <option value="SAUDI ARABIA">SAUDI ARABIA</option>
+          <option value="SENEGAL">SENEGAL</option>
+          <option value="SERBIA">SERBIA</option>
+          <option value="SEYCHELLES">SEYCHELLES</option>
+          <option value="SIERRA LEONE">SIERRA LEONE</option>
+          <option value="SINGAPORE">SINGAPORE</option>
+          <option value="SLOVAKIA">SLOVAKIA</option>
+          <option value="SLOVENIA">SLOVENIA</option>
+          <option value="SOLOMON ISLANDS">SOLOMON ISLANDS</option>
+          <option value="SOMALIA">SOMALIA</option>
+          <option value="SOUTH AFRICA">SOUTH AFRICA</option>
+          <option value="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
+          <option value="SPAIN">SPAIN</option>
+          <option value="SRI LANKA">SRI LANKA</option>
+          <option value="SUDAN">SUDAN</option>
+          <option value="SURINAME">SURINAME</option>
+          <option value="SVALBARD AND JAN MAYEN">SVALBARD AND JAN MAYEN</option>
+          <option value="SWAZILAND">SWAZILAND</option>
+          <option value="SWEDEN">SWEDEN</option>
+          <option value="SWITZERLAND">SWITZERLAND</option>
+          <option value="SYRIAN ARAB REPUBLIC">SYRIAN ARAB REPUBLIC</option>
+          <option value="TAIWAN, PROVINCE OF CHINA">TAIWAN, PROVINCE OF CHINA</option>
+          <option value="TAJIKISTAN">TAJIKISTAN</option>
+          <option value="TANZANIA, UNITED REPUBLIC OF">TANZANIA, UNITED REPUBLIC OF</option>
+          <option value="THAILAND">THAILAND</option>
+          <option value="TIMOR-LESTE">TIMOR-LESTE</option>
+          <option value="TOGO">TOGO</option>
+          <option value="TOKELAU">TOKELAU</option>
+          <option value="TONGA">TONGA</option>
+          <option value="TRINIDAD AND TOBAGO">TRINIDAD AND TOBAGO</option>
+          <option value="TUNISIA">TUNISIA</option>
+          <option value="TURKEY">TURKEY</option>
+          <option value="TURKMENISTAN">TURKMENISTAN</option>
+          <option value="TURKS AND CAICOS ISLANDS">TURKS AND CAICOS ISLANDS</option>
+          <option value="TUVALU">TUVALU</option>
+          <option value="UGANDA">UGANDA</option>
+          <option value="UKRAINE">UKRAINE</option>
+          <option value="UNITED ARAB EMIRATES">UNITED ARAB EMIRATES</option>
+          <option value="UNITED KINGDOM">UNITED KINGDOM</option>
+          <option value="UNITED STATES">UNITED STATES</option>
+          <option value="UNITED STATES MINOR OUTLYING ISLANDS">UNITED STATES MINOR OUTLYING ISLANDS</option>
+          <option value="URUGUAY">URUGUAY</option>
+          <option value="UZBEKISTAN">UZBEKISTAN</option>
+          <option value="VANUATU">VANUATU</option>
+          <option value="VENEZUELA">VENEZUELA</option>
+          <option value="VIET NAM">VIET NAM</option>
+          <option value="VIRGIN ISLANDS, BRITISH">VIRGIN ISLANDS, BRITISH</option>
+          <option value="VIRGIN ISLANDS, U.S.">VIRGIN ISLANDS, U.S.</option>
+          <option value="WALLIS AND FUTUNA">WALLIS AND FUTUNA</option>
+          <option value="WESTERN SAHARA">WESTERN SAHARA</option>
+          <option value="YEMEN">YEMEN</option>
+          <option value="ZAMBIA">ZAMBIA</option>
+          <option value="ZIMBABWE">ZIMBABWE</option>
+          <option value="ÃLAND ISLANDS">ÃLAND ISLANDS</option>
+        </select>
+      </div>
+    </div>
+
+
+
+  <div class="form-group">
+    <div class="checkbox">
+      <label>
+        <input type="checkbox" name="person.i_agree" id="personi_agree" data-error="An account cannot be created if you don't agree with the T&Cs" required="">
+        I agree to the <a href="/cor/terms_and_conditions" target="_blank">terms and conditions</a>
+      </label>
+      <div class="help-block with-errors"></div>
+    </div>
+  </div>
+
+
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary">Create a new account</button>
+  </div>
+
+
+</form>
+
+
+        </div>
+       <div class="col-md-8 col-md-offset-2">
+          <br />
+          <img class="featurette-image img-responsive center-block" src="/img/Geelong-Wave-Gradient-greyscale-small.png" alt="Geelong 2016">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+      <div class="row">
+        <div class="col-lg-8 col-md-offset-2">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title" style="text-align: center;">Our Emperor Penguin Sponsors</h1>
+            </div>
+            <div class="panel-body">
+              <div class="row">
+                <div class="col-xs-6 col-sm-4 col-sm-offset-1">
+                  <img width="100%" src="/img/sponsors/HPE_logo.svg">
+                </div>
+                <div class="col-xs-6 col-sm-4 col-sm-offset-2">
+                  <img width="100%" src="/img/sponsors/IBM_logo.svg">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="/img/bollards2.jpg" alt="Geelong" width="140" height="140">
+          <h2>About Geelong</h2>
+          <p>Geelong is Victoria's second largest city, located on Corio Bay, and within a short drive from popular beach-front communities on the Bellarine Peninsula as well as being the gateway to the famous Great Ocean Road</p>
+          <p><a class="btn btn-default" href="/about/geelong" role="button">More Info &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/img/Tux-simple.svg" alt="linux.conf.au" width="140" height="140">
+          <h2>linux.conf.au</h2>
+          <p>linux.conf.au is widely regarded by delegates as one of the best community run Linux conferences worldwide and is the largest Linux and Open Source Software conference in the Asia-Pacific.</p>
+          <p><a class="btn btn-default" href="/about/linux.conf.au" role="button">Read More &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/img/ThePier-Crop.png" alt="Sponsorship" width="140" height="140">
+          <h2>Sponsorship</h2>
+          <p>Our Sponsors help make linux.conf.au become the awesome conference everyone comes back to year after year. Come see who's on board this year, or find out how to get in contact with us</p>
+          <p><a class="btn btn-default" href="/sponsors/sponsors" role="button">Sponsorship &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+    </div><!-- /.container marketing -->
+
+
+      <!-- FOOTER -->
+      <footer>
+        <p style="text-align: center;">&copy; 2015 linux.conf.au 2016 and <a href="http://linux.org.au">Linux Australia</a> &middot; Linux is a registered trademark of Linus Torvalds &middot; <a href="/sitemap">Sitemap</a></p>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+      </footer>
+
+    </div><!-- /.container page-content-wrapping-->
+  </div><!--/.container wrapper -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/validator.min.js"></script>
+    <script src="/js/sorttable.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/js/ie10-viewport-bug-workaround.js"></script>
+    
+    <!-- Sidebar Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-63600300-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>
+
