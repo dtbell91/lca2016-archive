@@ -50,73 +50,73 @@
               </button>
               <a class="navbar-brand" href="#">linux.conf.au 2016</a>
             </div>
-	    
+
 <div id="navbar" class="navbar-collapse collapse">
   <ul class="nav navbar-nav">
           <li class=""><a href="/">Home</a></li>
           <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-          
+
                   <li><a href="/about/linux.conf.au">linux.conf.au</a></li>
-          
+
                   <li><a href="/about/geelong">Geelong</a></li>
-          
+
                   <li><a href="/about/buses">Buses</a></li>
-          
+
                   <li><a href="/about/team">Team</a></li>
-          
+
                   <li><a href="/about/venue">Venue</a></li>
               </ul>
           </li>
           <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sponsors<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-          
+
                   <li><a href="/sponsors/sponsors">Sponsors</a></li>
-          
+
                   <li><a href="/sponsors/why_sponsor">Why Sponsor</a></li>
               </ul>
           </li>
           <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Programme<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-          
+
                   <li><a href="/programme/about">About</a></li>
-          
+
                   <li><a href="/programme/social_events">Social Events</a></li>
-          
+
                   <li><a href="/programme/miniconfs">Miniconfs</a></li>
-          
+
                   <li><a href="/programme/sunday">Sunday</a></li>
-          
+
                   <li><a href="/programme/monday">Monday</a></li>
-          
+
                   <li><a href="/programme/tuesday">Tuesday</a></li>
-          
+
                   <li><a href="/programme/wednesday">Wednesday</a></li>
-          
+
                   <li><a href="/programme/thursday">Thursday</a></li>
-          
+
                   <li><a href="/programme/friday">Friday</a></li>
               </ul>
           </li>
           <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Register<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-          
+
                   <li><a href="/register/info">Info</a></li>
-          
+
                   <li><a href="/register/accommodation">Accommodation</a></li>
-          
+
                   <li><a href="/register/business_case">Business Case</a></li>
-          
+
                   <li><a href="/register/code_of_conduct">Code of Conduct</a></li>
-          
+
                   <li><a href="/register/environment">Environment</a></li>
-          
+
                   <li><a href="/register/volunteer">Volunteer</a></li>
-          
+
                   <li><a href="/register/terms_and_conditions">Terms and Conditions</a></li>
               </ul>
           </li>
@@ -158,15 +158,15 @@
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
 <!-- Indicators -->
       <ol class="carousel-indicators">
-   
+
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      
+
         <li data-target="#myCarousel" data-slide-to="1"></li>
-      
+
       </ol>
       <div class="carousel-inner" role="listbox">
 
-   
+
         <div class="item active">
                             <div style="height: 100%; background-image: url(/img/banner/4a.jpg); background-size: cover; background-position: 80% 75%;">
 </div>
@@ -186,7 +186,7 @@ vertical-align: middle;
   </div>
 </div>
             </div>
-            
+
         <div class="item">
               <div style="height: 100%; background-size: cover; background-position: 80% 75%; background-image: url(/img/banner/hobart-banner.png);">
 </div>
@@ -210,7 +210,7 @@ Christopher Neugebauer/CC-BY-SA</p>
 </div>
 </div>
             </div>
-            
+
 </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -230,17 +230,17 @@ Christopher Neugebauer/CC-BY-SA</p>
         <div id="sidebar-wrapper">
             <div id="background-image-disabled"></div>
             <ul class="sidebar-nav">
-                
 
 
 
 
 
-      
+
+
 
       <li class="selected"><a href="/person/signin"><span class="l"></span><span class="r"></span><span class="t">Sign in</span></a>
 
-      
+
 
       <li><a href="/person/new"><span class="l"></span><span class="r"></span><span class="t">Create an account</span></a>
 
@@ -256,7 +256,7 @@ Christopher Neugebauer/CC-BY-SA</p>
     <!-- Wrap the rest of the page in another container to center all the content. -->
     <div id="page-content-wrapper" class="toggled">
     <a href="#menu-toggle" class="btn btn-default btn-xs" id="menu-toggle" style="margin-left: -13px;">Toggle Menu</a>
-    
+
     <div class="container-fluid marketing">
     <!-- START THE FEATURETTES -->
       <div class="row featurette">
@@ -265,7 +265,10 @@ Christopher Neugebauer/CC-BY-SA</p>
 
     </div>
 
-          
+<div class="alert alert-info" role="alert">
+linux.conf.au 2016 is over. This website has now been archived and logins disabled.<br/>
+Please contact Linux Australia for anything regarding linux.conf.au 2016, or go to <a href="https://linux.conf.au">https://linux.conf.au</a> for information on the next/current linux.conf.au.
+</div>
 
 <h2 class="pop">Sign in</h2>
 
@@ -279,7 +282,7 @@ Christopher Neugebauer/CC-BY-SA</p>
         <label for="personemail_address">Email</label>
         <input type="hidden" name="person.email_address_error" />
       <div class="input-group">
-        <input id="personemail_address" class="form-control" placeholder="Email Address" name="person.email_address" data-error="Uh Oh, that email address doesn't look right" value="" type="email">
+        <input id="personemail_address" class="form-control" placeholder="Email Address" name="person.email_address" data-error="Uh Oh, that email address doesn't look right" value="" type="email" disabled>
         <span class="input-group-addon" id="basic-addon2">required</span>
       </div>
       <div class="help-block with-errors"></div>
@@ -287,12 +290,12 @@ Christopher Neugebauer/CC-BY-SA</p>
     <div class="form-group">
         <label for="personpassword">Password</label> <a href="/person/forgotten_password">(forgot password)</a>
       <div class="input-group">
-        <input id="personpassword" class="form-control" placeholder="Password" name="person.password" value="" type="password">
+        <input id="personpassword" class="form-control" placeholder="Password" name="person.password" value="" type="password" disabled>
         <span class="input-group-addon" id="basic-addon2">Min. 8 Char</span>
       </div>
     </div>
   <div class="form-group">
-    <button style="pointer-events: all; cursor: pointer;" type="submit" class="btn btn-primary disabled">Sign in</button>
+    <button style="pointer-events: all; cursor: pointer;" type="submit" class="btn btn-primary disabled" disabled>Sign in</button>
     <a class="btn btn-default" role="button" href="/person/new">Sign up</a>
     <a class="btn btn-link persona-button" role="button" href="javascript:login()">Sign in with Persona</a>
   </div>
@@ -392,7 +395,7 @@ function login() {
     <script src="/js/sorttable.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
-    
+
     <!-- Sidebar Menu Toggle Script -->
     <script>
     $("#menu-toggle").click(function(e) {
@@ -412,4 +415,3 @@ function login() {
     </script>
   </body>
 </html>
-
